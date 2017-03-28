@@ -1,0 +1,14 @@
+\select@language {UKenglish}
+\contentsline {chapter}{\numberline {I}\uppercase {Introduction}}{1}
+\contentsline {chapter}{\numberline {II}\uppercase {Eliminating friction with friction: 2D Janssen effect in a friction-driven system}}{4}
+\contentsline {section}{ Abstract}{4}
+\contentsline {section}{ Background}{4}
+\contentsline {section}{ Results and discussion}{9}
+\contentsline {chapter}{\numberline {III}\uppercase {Universality in quasi-2D granular shock fronts above an intruder}}{14}
+\contentsline {section}{ Abstract}{14}
+\contentsline {section}{ Background}{14}
+\contentsline {section}{ Results and discussion}{18}
+\contentsline {chapter}{\numberline {IV}\uppercase {Supplementary Materials for Chapter 3}}{24}
+\contentsline {section}{ Forces on grain pile}{24}
+\contentsline {chapter}{\numberline {V}\uppercase {Conclusion}}{29}
+\contentsline {chapter}{REFERENCES CITED}{31}

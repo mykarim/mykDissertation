@@ -1,0 +1,2015 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  28 MAR 2017 00:32
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(uothesis.cls
+Document Class: uothesis 
+UO Thesis Class
+
+Based on the UO Thesis macros by Bart Massey, et al.
+Currently maintained by Michael D. Anderson
+Accepted by the University of Oregon Graduate School
+for general use with Masters Thesis <date goes here>
+Accepted by the University of Oregon Graduate School
+for general use with PhD Dissertations <date goes here>
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count89
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count90
+\sf@farskip=\skip43
+\sf@captopadj=\dimen110
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count91
+\c@subfigure@save=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@subtable@save=\count95
+\c@lotdepth=\count96
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count97
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count98
+\output=\toks17
+\linenoprevgraf=\count99
+\linenumbersep=\dimen113
+\linenumberwidth=\dimen114
+\c@linenumber=\count100
+\c@pagewiselinenumber=\count101
+\c@LN@truepage=\count102
+\c@internallinenumber=\count103
+\c@internallinenumbers=\count104
+\quotelinenumbersep=\dimen115
+\bframerule=\dimen116
+\bframesep=\dimen117
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\layouts\layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip48
+\layoutsbox=\box29
+\l@youtunitlength=\skip49
+\l@youtlinethick=\skip50
+\l@youtlinethickii=\skip51
+\l@ysetupparskip=\skip52
+\l@ysetupbaselineskip=\skip53
+\l@yonem=\skip54
+\l@yonex=\skip55
+\l@ylmarg=\skip56
+\l@yrmarg=\skip57
+\l@yitmindent=\skip58
+\l@ylblwidth=\skip59
+\l@ylblsep=\skip60
+\l@ylparindent=\skip61
+\l@ytsep=\skip62
+\l@ypskip=\skip63
+\l@yptsep=\skip64
+\l@ypsep=\skip65
+\l@yitmsep=\skip66
+\l@ytok=\toks18
+\l@youtpw=\count105
+\l@youtph=\count106
+\l@youthpi=\count107
+\l@youthpii=\count108
+\l@youthpiii=\count109
+\l@youthpiv=\count110
+\l@youthpv=\count111
+\l@youthpvi=\count112
+\l@youthpvii=\count113
+\l@youtparskip=\count114
+\l@youtvpi=\count115
+\l@youtvpii=\count116
+\l@youtvpiii=\count117
+\l@youtvpiv=\count118
+\l@youtvpv=\count119
+\l@youtvpvi=\count120
+\l@youtvpvii=\count121
+\l@youthdo=\count122
+\l@youthdi=\count123
+\l@youthdii=\count124
+\l@youthdiii=\count125
+\l@youthdiv=\count126
+\l@youthdv=\count127
+\l@youthdvi=\count128
+\l@youthdvii=\count129
+\l@youtvdo=\count130
+\l@youtvdi=\count131
+\l@youtvdii=\count132
+\l@youtvdiii=\count133
+\l@youtvdiv=\count134
+\l@youtvdv=\count135
+\l@youtvdvi=\count136
+\l@youtvdvii=\count137
+\l@youtvdviii=\count138
+\l@youtxci=\count139
+\l@youtxcii=\count140
+\l@youtxciii=\count141
+\l@youtxciv=\count142
+\l@youtxcv=\count143
+\l@youtxcvi=\count144
+\l@youtyci=\count145
+\l@youtycii=\count146
+\l@youtyciii=\count147
+\l@youtyciv=\count148
+\l@youtycv=\count149
+\l@youtycvi=\count150
+\l@youtycvii=\count151
+\l@youtycviii=\count152
+\l@youtxco=\count153
+\l@youtyco=\count154
+\l@ytempdima=\skip67
+\stockwidth=\skip68
+\stockheight=\skip69
+\trimedge=\skip70
+\trimtop=\skip71
+\uppermargin=\skip72
+\spinemargin=\skip73
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\todonotes\todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count155
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen118
+\pgfutil@tempdimb=\dimen119
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box30
+ (C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen120
+\pgf@y=\dimen121
+\pgf@xa=\dimen122
+\pgf@ya=\dimen123
+\pgf@xb=\dimen124
+\pgf@yb=\dimen125
+\pgf@xc=\dimen126
+\pgf@yc=\dimen127
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count156
+\c@pgf@countb=\count157
+\c@pgf@countc=\count158
+\c@pgf@countd=\count159
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count160
+\pgfsyssoftpath@bigbuffer@items=\count161
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen128
+\pgfmath@count=\count162
+\pgfmath@box=\box31
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count163
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen129
+\pgf@picmaxx=\dimen130
+\pgf@picminy=\dimen131
+\pgf@picmaxy=\dimen132
+\pgf@pathminx=\dimen133
+\pgf@pathmaxx=\dimen134
+\pgf@pathminy=\dimen135
+\pgf@pathmaxy=\dimen136
+\pgf@xx=\dimen137
+\pgf@xy=\dimen138
+\pgf@yx=\dimen139
+\pgf@yy=\dimen140
+\pgf@zx=\dimen141
+\pgf@zy=\dimen142
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen143
+\pgf@path@lasty=\dimen144
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen145
+\pgf@shorten@start@additional=\dimen146
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count164
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen147
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen148
+\pgf@pt@y=\dimen149
+\pgf@pt@temp=\dimen150
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen151
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen152
+\pgf@sys@shading@range@num=\count165
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen153
+\pgf@nodesepend=\dimen154
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen155
+\pgffor@skip=\dimen156
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count166
+\pgfplotmarksize=\dimen157
+)
+\tikz@lastx=\dimen158
+\tikz@lasty=\dimen159
+\tikz@lastxsaved=\dimen160
+\tikz@lastysaved=\dimen161
+\tikzleveldistance=\dimen162
+\tikzsiblingdistance=\dimen163
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count167
+\tikznumberofchildren=\count168
+\tikznumberofcurrentchild=\count169
+\tikz@fig@count=\count170
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count171
+\pgfmatrixcurrentcolumn=\count172
+\pgf@matrix@numberofcolumns=\count173
+)
+\tikz@expandcount=\count174
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count175
+\calc@Bcount=\count176
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count177
+\calc@Cskip=\skip76
+)
+\c@@todonotes@numberoftodonotes=\count178
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip77
+\RaggedLeftLeftskip=\skip78
+\RaggedRightLeftskip=\skip79
+\CenteringRightskip=\skip80
+\RaggedLeftRightskip=\skip81
+\RaggedRightRightskip=\skip82
+\CenteringParfillskip=\skip83
+\RaggedLeftParfillskip=\skip84
+\RaggedRightParfillskip=\skip85
+\JustifyingParfillskip=\skip86
+\CenteringParindent=\skip87
+\RaggedLeftParindent=\skip88
+\RaggedRightParindent=\skip89
+\JustifyingParindent=\skip90
+)
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip91
+\bibsep=\skip92
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count179
+)
+\c@citation=\count180
+\@cvhangindent=\skip93
+\c@@shownumdepth=\count181
+\aux@appendices=\count182
+\@savsk=\skip94
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count183
+\U@D=\dimen166
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+))
+
+Package Babel Warning: The package option `english' should not be used
+(Babel)                with a more specific one (like `UKenglish') on input lin
+e 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip95
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen167
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count184
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count185
+\leftroot@=\count186
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count187
+\DOTSCASE@=\count188
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count189
+\c@MaxMatrixCols=\count190
+\dotsspace@=\muskip10
+\c@parentequation=\count191
+\dspbrk@lvl=\count192
+\tag@help=\toks34
+\row@=\count193
+\column@=\count194
+\maxfields@=\count195
+\andhelp@=\toks35
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks36
+\multlinegap=\skip96
+\multlinetaggap=\skip97
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+\@input{cover.aux}
+\openout2 = `cover.aux'.
+
+(cover.tex)
+\@input{abstract.aux}
+\openout2 = `abstract.aux'.
+
+(abstract.tex)
+\@input{cv.aux}
+\openout2 = `cv.aux'.
+
+(cv.tex)
+\@input{acknowledgements.aux}
+\openout2 = `acknowledgements.aux'.
+
+(acknowledgements.tex) (main.aux (introduction.aux) (chapter2.aux)
+(chapter3.aux) (chapter3Sup.aux) (conclusion.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen176
+\scratchbox=\box43
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen177
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks39
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+
+Package layouts Warning: Layout scale set to 0.5 on input line 14.
+
+ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 14.
+
+[1
+
+
+
+
+
+
+
+
+
+{C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+
+<ccimage.png, id=12, 323.2075pt x 112.42pt>
+File: ccimage.png Graphic file (type png)
+ <use ccimage.png>
+Package pdftex.def Info: ccimage.png used on input line 15.
+(pdftex.def)             Requested size: 80.80167pt x 28.10492pt.
+ [3
+
+ <./ccimage.png>] [4
+
+] [5] [6
+
+] [7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+ 
+ []
+
+(main.toc
+Overfull \hbox (17.22223pt too wide) detected at line 2
+ \OT1/cmr/m/n/10 I.  
+ []
+
+
+Overfull \hbox (21.11113pt too wide) detected at line 3
+ \OT1/cmr/m/n/10 II.  
+ []
+
+
+Overfull \hbox (56.35379pt too wide) in paragraph at lines 3--3
+ [][] []\OT1/cmr/m/n/10 ELIMINATING FRIC-TION WITH FRIC-TION: 2D JANSSEN EF-FEC
+T IN A FRICTION- 
+ []
+
+
+Overfull \hbox (25.00003pt too wide) detected at line 7
+ \OT1/cmr/m/n/10 III.  
+ []
+
+
+Overfull \hbox (7.92241pt too wide) in paragraph at lines 7--7
+ [][] []\OT1/cmr/m/n/10 UNIVERSALITY IN QUASI-2D GRAN-U-LAR SHOCK FRONTS ABOVE 
+AN IN-TRUDER [][]  
+ []
+
+
+Overfull \hbox (24.72224pt too wide) detected at line 11
+ \OT1/cmr/m/n/10 IV.  
+ []
+
+
+Overfull \hbox (21.11113pt too wide) detected at line 13
+ \OT1/cmr/m/n/10 V.  
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [8
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+ 
+ []
+
+(main.lof
+Overfull \hbox (19.72224pt too wide) detected at line 2
+ \OT1/cmr/m/n/10 1.  
+ []
+
+
+Overfull \hbox (3.86763pt too wide) in paragraph at lines 2--2
+ [][] []\OT1/cmr/m/n/10 Diagram of the ex-per-i-mental setup. The nick-els are 
+driven by the belt into a 2D 
+ []
+
+
+Overfull \hbox (21.50653pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/10 con-tainer that is sta-tion-ary. The nick-els are blocked at o
+ne end by an ac-rylic bar-rier 
+ []
+
+
+Overfull \hbox (11.08975pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/10 which presses against two force sensors A and B as the nick-el
+s ac-cu-mu-late against 
+ []
+
+
+Overfull \hbox (8.72868pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/10 this sur-face. The nick-els are con-fined on the sides by wall
+s con-struc-ted from ABS 
+ []
+
+
+Overfull \hbox (0.70093pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/10 and with saw-tooth pat-terns en-graved on the sides fa-cing th
+e nick-els. The ar-row 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 3
+ \OT1/cmr/m/n/10 2.  
+ []
+
+
+Overfull \hbox (12.89314pt too wide) in paragraph at lines 3--3
+ [][] []\OT1/cmr/m/n/10 Measured force $(\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 )$ p
+er con-tainer width $(\OML/cmm/m/it/10 w\OT1/cmr/m/n/10 )$ is plot-ted at vari-
+ous filling heights for 
+ []
+
+
+Overfull \hbox (8.25658pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/m/n/10 sat-ur-ates faster with in-creas-ing angle of in-clin-a-tion o
+f the tri-angles along the side 
+ []
+
+
+Overfull \hbox (34.79822pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/m/n/10 walls. At very low angles of in-clin-a-tion ($\OML/cmm/m/it/10
+ $ $\OT1/cmr/m/n/10 =$ $0[]$, $5[]$, $7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5[]$)
+ the bot-tom pres-sure in-creases 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 4
+ \OT1/cmr/m/n/10 3.  
+ []
+
+
+Overfull \hbox (5.16624pt too wide) in paragraph at lines 4--4
+ [][] []\OT1/cmr/m/n/10 The di-men-sion-less quant-ity $\OML/cmm/m/it/10 F=\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 wg\OT1/cmr/m/n/10 )$ is plot-ted against $\OML/
+cmm/m/it/10 x=$ \OT1/cmr/m/n/10 for sev-eral val-ues of 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 5
+ \OT1/cmr/m/n/10 4.  
+ []
+
+
+Overfull \hbox (7.7288pt too wide) in paragraph at lines 5--5
+ [][] []\OT1/cmr/m/n/10 Fitted val-ues of char-ac-ter-istic filling height per 
+con-tainer width is plot-ted against 
+ []
+
+
+Overfull \hbox (8.13626pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/n/10 vari-ous angles of in-clin-a-tion. The data is fit-ted to our 
+model of $\OML/cmm/m/it/10 $ \OT1/cmr/m/n/10 as a func-tion of 
+ []
+
+
+Overfull \hbox (4.78435pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/n/10 the angle of in-clin-a-tion $\OML/cmm/m/it/10 $\OT1/cmr/m/n/1
+0 , as de-scribed in equa-tion. In-set is an il-lus-tra-tion of the 
+ []
+
+
+Overfull \hbox (4.64536pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/n/10 in-ter-ac-tion of forces ne-ces-sary to cre-ate a mech-an-ical
+ fric-tion that in-creases with 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 6
+ \OT1/cmr/m/n/10 5.  
+ []
+
+
+Overfull \hbox (1.36763pt too wide) in paragraph at lines 6--6
+ [][] []\OT1/cmr/m/n/10 a) Front view of ex-per-i-mental setup. The in-truder i
+n the pic-ture cor-res-ponds to 
+ []
+
+
+Overfull \hbox (9.23096pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/n/10 a super-disk ex-po-nent $\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 
+7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$. b) Intruder-sensor sys-tem schem-atic. c
+) Ex-amples 
+ []
+
+
+Overfull \hbox (14.17549pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/n/10 of in-truders with dif-fer-ent super-disk ex-po-nents. As $\OM
+L/cmm/m/it/10 n$ \OT1/cmr/m/n/10 in-creases the shapes be-come 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 7
+ \OT1/cmr/m/n/10 6.  
+ []
+
+
+Overfull \hbox (8.6732pt too wide) in paragraph at lines 7--7
+ [][] []\OT1/cmr/m/n/10 a-c) In-tens-ity plot of scaled gran-u-lar tem-per-at-u
+re, ab-so-lute di-ver-gence of the flow 
+ []
+
+
+Overfull \hbox (1.06427pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/n/10 field, and local shear-strain rate for $\OML/cmm/m/it/10 n \OT
+1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75$. d - f) Scat-ter plots of
+ scaled flow- 
+ []
+
+
+Overfull \hbox (3.312pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/n/10 field di-ver-gence versus tem-per-at-ure, flow field di-ver-ge
+nce versus local shear rate, 
+ []
+
+
+Overfull \hbox (9.53429pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/n/10 and shear rate versus tem-per-at-ure re-spect-ively, meas-ured
+ from all points en-closed 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 8
+ \OT1/cmr/m/n/10 7.  
+ []
+
+
+Overfull \hbox (10.04242pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/cmr/m/n/10 a) Plots of shock fronts. Scaled $\OML/cmm/m/it/10 x$ \
+OT1/cmr/m/n/10 and $\OML/cmm/m/it/10 y$ \OT1/cmr/m/n/10 co-ordin-ates are in un
+its of $\OML/cmm/m/it/10 R$\OT1/cmr/m/n/10 , the ver-tical 
+ []
+
+
+Overfull \hbox (16.11772pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$, $5$, $7\OML/cmm/m/it/10
+ :\OT1/cmr/m/n/10 5$, $10$, $\OMS/cmsy/m/n/10 1$\OT1/cmr/m/n/10 . Solid black l
+ines are fits to Equa-tion 3.5[]. b) Plot of scaled shock 
+ []
+
+
+Overfull \hbox (9.42886pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 bound-ar-ies for all probed val-ues of $\OML/cmm/m/it/10 n$ \O
+T1/cmr/m/n/10 with con-stant $\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = 4$ inches sh
+own in circles. 
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 in-truder radii, $\OML/cmm/m/it/10 R \OMS/cmsy/m/n/10 2 f\OT1/
+cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n
+/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 7\OMS/cmsy/m/n/10 g$\OT1/cmr/m/n/10 inc
+hes for con-stant $\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 =$2. Dia-mond sym-bols 
+ []
+
+
+Overfull \hbox (10.75658pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 rep-res-ent data from an asym-met-ric in-truder with ran-dom f
+ea-tures on it (shown in 
+ []
+
+
+Overfull \hbox (42.4233pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 Fig-ure 2 of the Sup-ple-ment). The black curve is the in-ver-
+ted caten-ary given by Equa-tion 
+ []
+
+
+Overfull \hbox (5.23686pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 of $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 re-spect-ively. Red ci
+rcles rep-res-ent data from vary-ing $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 with 
+con-stant $\OML/cmm/m/it/10 R$ \OT1/cmr/m/n/10 and 
+ []
+
+
+Overfull \hbox (4.34564pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 blue squares rep-res-ent data from fixed $\OML/cmm/m/it/10 n \
+OT1/cmr/m/n/10 =$2 but dif-fer-ent com-bin-a-tions of $\OML/cmm/m/it/10 R$ \OT1
+/cmr/m/n/10 and 
+ []
+
+
+Overfull \hbox (10.37332pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10 im-pact speed $\OML/cmm/m/it/10 v[]$\OT1/cmr/m/n/10 . The dash
+ed line shows the mean width $\OMS/cmsy/m/n/10 j[]j $\OT1/cmr/m/n/10 0.8. In t
+he $\OML/cmm/m/it/10 c$ \OT1/cmr/m/n/10 versus 
+ []
+
+
+Overfull \hbox (18.86998pt too wide) in paragraph at lines 8--8
+ \OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 plot the dark solid curve shows cen-ter of
+ mass of the in-truders shifts with vary-ing 
+ []
+
+[9
+
+]
+Overfull \hbox (19.72224pt too wide) detected at line 9
+ \OT1/cmr/m/n/10 8.  
+ []
+
+
+Overfull \hbox (5.53432pt too wide) in paragraph at lines 9--9
+ [][] []\OT1/cmr/m/n/10 a) Plot of ho-ri-zontal lift forces from force sensor (
+green circle) and cal-cu-lated lift 
+ []
+
+
+Overfull \hbox (1.25653pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/m/n/10 in black, trapped grains, in grey and shock pro-file in red. T
+he solid green ar-row 
+ []
+
+
+Overfull \hbox (4.29117pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/m/n/10 rep-res-ents the tan-gen-tial net force $[](\OML/cmm/m/it/10 s
+; \OT1/cmr/m/n/10 )$ on a small seg-ment of the shock front. 
+ []
+
+
+Overfull \hbox (3.41621pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/m/n/10 Dot-ted green ar-rows are com-pon-ents of this vec-tor. Purple
+ ar-rows labeled $\OML/cmm/m/it/10 v[]$ 
+ []
+
+
+Overfull \hbox (16.03435pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/m/n/10 rep-res-ent ho-ri-zontal ejec-ted grain ve-lo-cit-ies from the
+ trapped re-gion. b) Plot of the 
+ []
+
+
+Overfull \hbox (39.884pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/m/n/10 left (red) and right (blue) exit heights $\OML/cmm/m/it/10 l$ 
+\OT1/cmr/m/n/10 as a func-tion of $\OML/cmm/m/it/10 n$\OT1/cmr/m/n/10 . c) Plot
+ of ab-so-lute ho-ri-zontal 
+ []
+
+
+Overfull \hbox (19.72224pt too wide) detected at line 10
+ \OT1/cmr/m/n/10 9.  
+ []
+
+
+Overfull \hbox (24.72226pt too wide) detected at line 11
+ \OT1/cmr/m/n/10 10.  
+ []
+
+
+Overfull \hbox (4.78435pt too wide) in paragraph at lines 11--11
+ [][] []\OT1/cmr/m/n/10 Illustration of the in-truder with ran-dom fea-tures on
+ the lead-ing edge. The shock 
+ []
+
+
+Overfull \hbox (24.72226pt too wide) detected at line 12
+ \OT1/cmr/m/n/10 11.  
+ []
+
+
+Overfull \hbox (20.55038pt too wide) in paragraph at lines 12--12
+ [][] []\OT1/cmr/m/n/10 Plots of total meas-ured lift force $\OML/cmm/m/it/10 F
+[]$\OT1/cmr/m/n/10 , cal-cu-lated lift force $\OML/cmm/m/it/10 F[]$ \OT1/cmr/m/
+n/10 (blue squares), force 
+ []
+
+
+Overfull \hbox (1.38904pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/m/n/10 due to mass ejec-tion from trapped pile $\OML/cmm/m/it/10 F[]$
+ \OT1/cmr/m/n/10 (green dia-mond), quasi-static load 
+ []
+
+
+Overfull \hbox (14.24783pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/m/n/10 con-tri-bu-tion $\OML/cmm/m/it/10 F[]$ \OT1/cmr/m/n/10 (down-w
+ard point-ing ar-row), and force due to im-pacts $\OML/cmm/m/it/10 F[]$ \OT1/cm
+r/m/n/10 (up-ward 
+ []
+
+
+Overfull \hbox (24.72226pt too wide) detected at line 13
+ \OT1/cmr/m/n/10 12.  
+ []
+
+
+Overfull \hbox (5.09215pt too wide) in paragraph at lines 13--13
+ [][] []\OT1/cmr/m/n/10 Representative mean flow field around an in-truder with
+ super-disk ex-po-nent $\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+ 
+ []
+
+(main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [11
+
+]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex
+[Introduction]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+) [1
+
+
+
+
+] [2] [3]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+[Eliminating friction with friction: 2D Janssen effect in a friction-driven sys
+tem]
+
+Package natbib Warning: Citation `jaeger_physics_1992' on page 4 undefined on i
+nput line 22.
+
+
+Package natbib Warning: Citation `jaeger_granular_1996' on page 4 undefined on 
+input line 22.
+
+
+Package natbib Warning: Citation `liu_nonlinear_1998' on page 4 undefined on in
+put line 22.
+
+
+Package natbib Warning: Citation `trappe_jamming_2001' on page 4 undefined on i
+nput line 22.
+
+
+Package natbib Warning: Citation `janssen_versuche_1895' on page 4 undefined on
+ input line 22.
+
+
+Package natbib Warning: Citation `duran_sands_2000' on page 4 undefined on inpu
+t line 22.
+
+
+Package natbib Warning: Citation `sperl_experiments_2006' on page 4 undefined o
+n input line 22.
+
+<Figures/chapter2/conveyor.pdf, id=59, 807.25589pt x 493.845pt>
+File: Figures/chapter2/conveyor.pdf Graphic file (type pdf)
+
+<use Figures/chapter2/conveyor.pdf>
+Package pdftex.def Info: Figures/chapter2/conveyor.pdf used on input line 25.
+(pdftex.def)             Requested size: 433.62pt x 265.27072pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]\OT1/cmr/m/n/10 FIGURE 1. |Dia-gram of the ex-per-i-mental setup. The nick-el
+s are driven by the belt into a 2D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/10 con-tainer that is sta-tion-ary. The nick-els are blocked at on
+e end by an ac-rylic bar-rier which presses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/10 against two force sensors A and B as the nick-els ac-cu-mu-late
+ against this sur-face. The nick-els are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/10 con-fined on the sides by walls con-struc-ted from ABS and with
+ saw-tooth pat-terns en-graved on the
+ []
+
+[4
+
+
+
+]
+
+Package natbib Warning: Citation `nedderman_flow_1982' on page 5 undefined on i
+nput line 31.
+
+
+Package natbib Warning: Citation `kadanoff_built_1999' on page 5 undefined on i
+nput line 31.
+
+
+Package natbib Warning: Citation `de_gennes_granular_1999' on page 5 undefined 
+on input line 31.
+
+
+Package natbib Warning: Citation `bertho_dynamical_2003' on page 5 undefined on
+ input line 31.
+
+
+Package natbib Warning: Citation `landry_confined_2003' on page 5 undefined on 
+input line 31.
+
+
+Package natbib Warning: Citation `mankoc_flow_2007' on page 5 undefined on inpu
+t line 31.
+
+
+Package natbib Warning: Citation `hilton_granular_2011' on page 5 undefined on 
+input line 31.
+
+
+Package natbib Warning: Citation `aguirre_pressure_2010' on page 5 undefined on
+ input line 31.
+
+
+Package natbib Warning: Citation `aguirre_granular_2011' on page 5 undefined on
+ input line 31.
+
+[5 <./Figures/chapter2/conveyor.pdf>]
+
+Package natbib Warning: Citation `farkas_segregation_2002' on page 6 undefined 
+on input line 33.
+
+
+Package natbib Warning: Citation `mobarakabadi_granular_2013' on page 6 undefin
+ed on input line 33.
+
+
+Package natbib Warning: Citation `derenyi_collective_1998' on page 6 undefined 
+on input line 33.
+
+
+Package natbib Warning: Citation `farkas_transitions_1999' on page 6 undefined 
+on input line 33.
+
+
+Package natbib Warning: Citation `janssen_versuche_1895' on page 6 undefined on
+ input line 49.
+
+
+Package natbib Warning: Citation `sperl_experiments_2006' on page 6 undefined o
+n input line 49.
+
+
+Package natbib Warning: Citation `duran_sands_2000' on page 6 undefined on inpu
+t line 49.
+
+[6] <Figures/chapter2/pressurevh.pdf, id=498, 438.63875pt x 427.5975pt>
+File: Figures/chapter2/pressurevh.pdf Graphic file (type pdf)
+
+<use Figures/chapter2/pressurevh.pdf>
+Package pdftex.def Info: Figures/chapter2/pressurevh.pdf used on input line 63.
+
+(pdftex.def)             Requested size: 433.62pt x 422.71603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\OT1/cmr/m/n/10 FIGURE 2. |Meas-ured force $(\OML/cmm/m/it/10 F\OT1/cmr/m/n/1
+0 )$ per con-tainer width $(\OML/cmm/m/it/10 w\OT1/cmr/m/n/10 )$ is plot-ted at
+ vari-ous filling heights
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/10 for $\OML/cmm/m/it/10  \OT1/cmr/m/n/10 = 0[]$, $5[]$, $7\OML/c
+mm/m/it/10 :\OT1/cmr/m/n/10 5[]$, $10[]$, $15[]$, $20[]$, $30[]$, $40[]$, $45[]
+$ and $90[]$. The data is fit-ted to the equa-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OML/cmm/m/it/10 F=w \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (1 
+\OMS/cmsy/m/n/10   \OML/cmm/m/it/10 exp\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OML/
+cmm/m/it/10 x=\OT1/cmr/m/n/10 ))$ (solid lines). The bot-tom pres-sure $(\OML/
+cmm/m/it/10 F=w\OT1/cmr/m/n/10 )$ sat-ur-ates faster
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/10 with in-creas-ing angle of in-clin-a-tion of the tri-angles alo
+ng the side walls. At very low angles of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/10 in-clin-a-tion ($\OML/cmm/m/it/10 $ $\OT1/cmr/m/n/10 =$ $0[]$,
+ $5[]$, $7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5[]$) the bot-tom pres-sure in-crea
+ses nearly lin-early for the ob-served filling
+ []
+
+[7] [8 <./Figures/chapter2/pressurevh.pdf>]
+<Figures/chapter2/collapse.pdf, id=535, 424.58624pt x 408.52625pt>
+File: Figures/chapter2/collapse.pdf Graphic file (type pdf)
+
+<use Figures/chapter2/collapse.pdf>
+Package pdftex.def Info: Figures/chapter2/collapse.pdf used on input line 76.
+(pdftex.def)             Requested size: 433.62pt x 417.23982pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\OT1/cmr/m/n/10 FIGURE 3. |The di-men-sion-less quant-ity $\OML/cmm/m/it/10 F
+=\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 wg\OT1/cmr/m/n/10 )$ is plot-ted against $
+\OML/cmm/m/it/10 x=$ \OT1/cmr/m/n/10 for sev-eral val-ues of $\OML/cmm/m/it/10
+ $
+ []
+
+<Figures/chapter2/etavtheta.pdf, id=536, 504.88625pt x 333.245pt>
+File: Figures/chapter2/etavtheta.pdf Graphic file (type pdf)
+
+<use Figures/chapter2/etavtheta.pdf>
+Package pdftex.def Info: Figures/chapter2/etavtheta.pdf used on input line 86.
+(pdftex.def)             Requested size: 433.62pt x 286.20882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\OT1/cmr/m/n/10 FIGURE 4. |Fit-ted val-ues of char-ac-ter-istic filling heigh
+t per con-tainer width is plot-ted against
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\OT1/cmr/m/n/10 vari-ous angles of in-clin-a-tion. The data is fit-ted to our m
+odel of $\OML/cmm/m/it/10 $ \OT1/cmr/m/n/10 as a func-tion of the angle of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\OT1/cmr/m/n/10 in-clin-a-tion $\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 , as de-scri
+bed in equa-tion. In-set is an il-lus-tra-tion of the in-ter-ac-tion of forces 
+ne-ces-sary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\OT1/cmr/m/n/10 to cre-ate a mech-an-ical fric-tion that in-creases with in-cre
+as-ing $\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 . Con-sequently higher $\OML/cmm/m/i
+t/10 $ \OT1/cmr/m/n/10 leads to
+ []
+
+[9] [10 <./Figures/chapter2/collapse.pdf>] [11 <./Figures/chapter2/etavtheta.pd
+f>]
+
+Package natbib Warning: Citation `janssen_versuche_1895' on page 12 undefined o
+n input line 110.
+
+
+Package natbib Warning: Citation `caughey_lateral_1951' on page 12 undefined on
+ input line 110.
+
+
+Package natbib Warning: Citation `sundaram_reassessment_1979' on page 12 undefi
+ned on input line 110.
+
+
+Package natbib Warning: Citation `atewologun_experimental_1991' on page 12 unde
+fined on input line 110.
+
+
+Package natbib Warning: Citation `rusinek_experimental_2003' on page 12 undefin
+ed on input line 110.
+
+) [12] [13]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+[Universality in quasi-2D granular shock fronts above an intruder]
+
+Package natbib Warning: Citation `soller_drag_2006' on page 14 undefined on inp
+ut line 21.
+
+
+Package natbib Warning: Citation `ding_drag_2011' on page 14 undefined on input
+ line 21.
+
+
+Package natbib Warning: Citation `potiguar_lift_2011' on page 14 undefined on i
+nput line 21.
+
+
+Package natbib Warning: Citation `potiguar_lift_2013' on page 14 undefined on i
+nput line 21.
+
+
+Package natbib Warning: Citation `haff_grain_1983' on page 14 undefined on inpu
+t line 21.
+
+
+Package natbib Warning: Citation `rericha_shocks_2001' on page 14 undefined on 
+input line 21.
+
+
+Package natbib Warning: Citation `amarouchene_speed_2006' on page 14 undefined 
+on input line 21.
+
+
+Package natbib Warning: Citation `rericha_shocks_2001' on page 14 undefined on 
+input line 21.
+
+
+Package natbib Warning: Citation `boudet_shock_2008' on page 14 undefined on in
+put line 21.
+
+
+Package natbib Warning: Citation `boudet_drag_2010' on page 14 undefined on inp
+ut line 21.
+
+
+Package natbib Warning: Citation `potiguar_lift_2011' on page 14 undefined on i
+nput line 21.
+
+<Figures/chapter3/schematic.pdf, id=616, 712.3413pt x 587.19376pt>
+File: Figures/chapter3/schematic.pdf Graphic file (type pdf)
+
+<use Figures/chapter3/schematic.pdf>
+Package pdftex.def Info: Figures/chapter3/schematic.pdf used on input line 24.
+(pdftex.def)             Requested size: 433.62pt x 357.45296pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\OT1/cmr/m/n/10 FIGURE 5. |a) Front view of ex-per-i-mental setup. The in-tru
+der in the pic-ture cor-res-ponds to a
+ []
+
+<Figures/chapter3/graphPanel.pdf, id=617, 1114.1625pt x 454.69875pt>
+File: Figures/chapter3/graphPanel.pdf Graphic file (type pdf)
+
+<use Figures/chapter3/graphPanel.pdf>
+Package pdftex.def Info: Figures/chapter3/graphPanel.pdf used on input line 30.
+
+(pdftex.def)             Requested size: 433.62pt x 176.96407pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\OT1/cmr/m/n/10 FIGURE 6. |a-c) In-tens-ity plot of scaled gran-u-lar tem-per
+-at-ure, ab-so-lute di-ver-gence of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\OT1/cmr/m/n/10 flow field, and local shear-strain rate for $\OML/cmm/m/it/10 n
+ \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75$. d - f) Scat-ter plot
+s of scaled flow-field
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\OT1/cmr/m/n/10 di-ver-gence versus tem-per-at-ure, flow field di-ver-gence ver
+sus local shear rate, and shear rate versus
+ []
+
+[14
+
+
+
+] [15 <./Figures/chapter3/schematic.pdf>]
+
+Package natbib Warning: Citation `rericha_shocks_2001' on page 16 undefined on 
+input line 37.
+
+
+Package natbib Warning: Citation `amarouchene_speed_2006' on page 16 undefined 
+on input line 37.
+
+
+Package natbib Warning: Citation `clark_steady_2016' on page 16 undefined on in
+put line 37.
+
+[16 <./Figures/chapter3/graphPanel.pdf>]
+
+Package natbib Warning: Citation `jiao_optimal_2009' on page 17 undefined on in
+put line 41.
+
+
+Package natbib Warning: Citation `thielicke_pivlab_2014' on page 17 undefined o
+n input line 50.
+
+
+Package natbib Warning: Citation `amarouchene_dynamic_2001' on page 17 undefine
+d on input line 50.
+
+
+Package natbib Warning: Citation `wassgren_dilute_2003' on page 17 undefined on
+ input line 50.
+
+
+Package natbib Warning: Citation `knoll_numerical_2007' on page 17 undefined on
+ input line 50.
+
+
+Package natbib Warning: Citation `boudet_shock_2008' on page 17 undefined on in
+put line 50.
+
+
+Package natbib Warning: Citation `meyer_transient_2013' on page 17 undefined on
+ input line 50.
+
+
+Package natbib Warning: Citation `vilquin_structure_2016' on page 17 undefined 
+on input line 50.
+
+
+Package natbib Warning: Citation `clark_steady_2016' on page 17 undefined on in
+put line 56.
+
+[17]
+
+Package natbib Warning: Citation `mounfield_theoretical_1996' on page 18 undefi
+ned on input line 64.
+
+
+Package natbib Warning: Citation `mounfield_theoretical_1996' on page 18 undefi
+ned on input line 66.
+
+[18]
+<Figures/chapter3/curveFitAndParameters.pdf, id=1162, 540.0175pt x 484.47699pt>
+File: Figures/chapter3/curveFitAndParameters.pdf Graphic file (type pdf)
+<use Figures/chapter3/curveFitAndParameters.pdf>
+Package pdftex.def Info: Figures/chapter3/curveFitAndParameters.pdf used on inp
+ut line 76.
+(pdftex.def)             Requested size: 433.62pt x 389.03104pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\OT1/cmr/m/n/10 FIGURE 7. |a) Plots of shock fronts. Scaled $\OML/cmm/m/it/10
+ x$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it/10 y$ \OT1/cmr/m/n/10 co-ordin-ates are 
+in units of $\OML/cmm/m/it/10 R$\OT1/cmr/m/n/10 , the ver-tical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 length of the in-truder. The data is shown for $\OML/cmm/m/it/1
+0 n \OT1/cmr/m/n/10 = 0$, $0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75$, $0\OML/cmm/m
+/it/10 :\OT1/cmr/m/n/10 85$, $0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 95$, $1$, $1\O
+ML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$, $2$, $2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$
+, $5$, $7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$, $10$,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OMS/cmsy/m/n/10 1$\OT1/cmr/m/n/10 . Solid black lines are fits to Equa-tion 3.
+5[]. b) Plot of scaled shock bound-ar-ies for all probed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 val-ues of $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 with con-stant 
+$\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = 4$ inches shown in circles. Squares rep-r
+es-ent all tested in-truder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 Dia-mond sym-bols rep-res-ent data from an asym-met-ric in-trud
+er with ran-dom fea-tures on it (shown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 in Fig-ure 2 of the Sup-ple-ment). The black curve is the in-ve
+r-ted caten-ary given by Equa-tion 3.5[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 c) Top to bot-tom - plots of the fit para-met-ers $\OML/cmm/m/i
+t/10 w$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 c$ \OT1/cmr/m/n/10 and $\OML/cmm/m/i
+t/10 w \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 p$ \OT1/cmr/m/n/10 as func-tions of $
+\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 re-spect-ively. Red
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/cmr/m/n/10 circles rep-res-ent data from vary-ing $\OML/cmm/m/it/10 n$ \OT
+1/cmr/m/n/10 with con-stant $\OML/cmm/m/it/10 R$ \OT1/cmr/m/n/10 and blue squar
+es rep-res-ent data from fixed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OMS/cmsy/m/n/10 j[]j $\OT1/cmr/m/n/10 0.8. In the $\OML/cmm/m/it/10 c$ \OT1/c
+mr/m/n/10 versus $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 plot the dark solid curve
+ shows cen-ter of mass of the in-truders shifts
+ []
+
+<Figures/chapter3/forcePlot.pdf, id=1163, 382.42876pt x 439.14063pt>
+File: Figures/chapter3/forcePlot.pdf Graphic file (type pdf)
+
+<use Figures/chapter3/forcePlot.pdf>
+Package pdftex.def Info: Figures/chapter3/forcePlot.pdf used on input line 84.
+(pdftex.def)             Requested size: 433.62pt x 497.9452pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\OT1/cmr/m/n/10 FIGURE 8. |a) Plot of ho-ri-zontal lift forces from force sen
+sor (green circle) and cal-cu-lated lift
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 85--85
+\OT1/cmr/m/n/10 forces (dark blue squares) as a func-tion of $\OML/cmm/m/it/10 
+n$\OT1/cmr/m/n/10 . Lift is max-imum for $\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 !
+ \OT1/cmr/m/n/10 0$ and de-creases to $0$ as
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 85--85
+\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ! 1$\OT1/cmr/m/n/10 . In-set is an il-lus-t
+ra-tion show-ing the in-truder, out-lined in black, trapped grains, in grey
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/10 and shock pro-file in red. The solid green ar-row rep-res-ents 
+the tan-gen-tial net force $[](\OML/cmm/m/it/10 s; \OT1/cmr/m/n/10 )$ on a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/10 small seg-ment of the shock front. Dot-ted green ar-rows are co
+m-pon-ents of this vec-tor. Purple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/10 ar-rows labeled $\OML/cmm/m/it/10 v[]$ \OT1/cmr/m/n/10 rep-res-
+ent ho-ri-zontal ejec-ted grain ve-lo-cit-ies from the trapped re-gion. b) Plot
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/10 of the left (red) and right (blue) exit heights $\OML/cmm/m/it/
+10 l$ \OT1/cmr/m/n/10 as a func-tion of $\OML/cmm/m/it/10 n$\OT1/cmr/m/n/10 . c
+) Plot of ab-so-lute ho-ri-zontal
+ []
+
+[19] [20 <./Figures/chapter3/curveFitAndParameters.pdf>] [21 <./Figures/chapter
+3/forcePlot.pdf>] [22]) [23]
+\openout2 = `chapter3Sup.aux'.
+
+ (chapter3Sup.tex
+[Supplementary Materials for Chapter 3]
+[24
+
+
+
+]
+<Figures/chapter3sup/diagramSupplement.pdf, id=10265, 291.84032pt x 213.04594pt
+>
+File: Figures/chapter3sup/diagramSupplement.pdf Graphic file (type pdf)
+ <use Figures/chapter3sup/diagramSupplement.pdf>
+Package pdftex.def Info: Figures/chapter3sup/diagramSupplement.pdf used on inpu
+t line 31.
+(pdftex.def)             Requested size: 433.62pt x 316.57411pt.
+
+<Figures/chapter3sup/randomShape.pdf, id=10266, 202.7575pt x 208.11049pt>
+File: Figures/chapter3sup/randomShape.pdf Graphic file (type pdf)
+
+<use Figures/chapter3sup/randomShape.pdf>
+Package pdftex.def Info: Figures/chapter3sup/randomShape.pdf used on input line
+ 37.
+(pdftex.def)             Requested size: 433.62pt x 445.0821pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\OT1/cmr/m/n/10 FIGURE 10. |Il-lus-tra-tion of the in-truder with ran-dom fea
+-tures on the lead-ing edge. The shock
+ []
+
+
+<Figures/chapter3sup/forcePlotSupplement.pdf, id=10267, 388.11699pt x 261.6445p
+t>
+File: Figures/chapter3sup/forcePlotSupplement.pdf Graphic file (type pdf)
+ <use Figures/chapter3sup/forcePlotSupplement.pdf>
+Package pdftex.def Info: Figures/chapter3sup/forcePlotSupplement.pdf used on in
+put line 43.
+(pdftex.def)             Requested size: 433.62pt x 292.33319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]\OT1/cmr/m/n/10 FIGURE 11. |Plots of total meas-ured lift force $\OML/cmm/m/i
+t/10 F[]$\OT1/cmr/m/n/10 , cal-cu-lated lift force $\OML/cmm/m/it/10 F[]$ \OT1/
+cmr/m/n/10 (blue squares), force
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/n/10 due to mass ejec-tion from trapped pile $\OML/cmm/m/it/10 F[]$ 
+\OT1/cmr/m/n/10 (green dia-mond), quasi-static load con-tri-bu-tion $\OML/cmm/m
+/it/10 F[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/n/10 (down-ward point-ing ar-row), and force due to im-pacts $\OML/c
+mm/m/it/10 F[]$ \OT1/cmr/m/n/10 (up-ward point-ing ar-row) as a func-tion of
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<Figures/chapter3sup/supplementQuiver.pdf, id=10268, 367.76997pt x 266.86299pt>
+File: Figures/chapter3sup/supplementQuiver.pdf Graphic file (type pdf)
+<use Figures/chapter3sup/supplementQuiver.pdf>
+Package pdftex.def Info: Figures/chapter3sup/supplementQuiver.pdf used on input
+ line 49.
+(pdftex.def)             Requested size: 433.62pt x 314.65942pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/10 FIGURE 12. |Rep-res-ent-at-ive mean flow field around an in-t
+ruder with super-disk ex-po-nent
+ []
+
+) [25 <./Figures/chapter3sup/diagramSupplement.pdf>] [26 <./Figures/chapter3sup
+/randomShape.pdf>] [27 <./Figures/chapter3sup/forcePlotSupplement.pdf>]
+[28 <./Figures/chapter3sup/supplementQuiver.pdf>]
+\openout2 = `conclusion.aux'.
+
+ (conclusion.tex
+[Conclusion]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+) [29
+
+
+
+] [30] (main.bbl
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \end{thebibliography}
+                         
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[31
+
+
+] (main.aux (introduction.aux) (chapter2.aux) (chapter3.aux)
+(chapter3Sup.aux) (conclusion.aux))
+
+ *File List*
+uothesis.cls    
+  report.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+  subfig.sty    2005/06/28 ver: 1.3 subfig package
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+ caption.sty    2016/02/21 v3.3-144 Customizing captions (AR)
+caption3.sty    2016/05/22 v1.7-166 caption3 kernel (AR)
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+  pdftex.def    2017/01/12 v0.06k Graphics/color for pdfTeX
+infwarerr.sty    2016/05/16 v1.4 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+dvipsnam.def    2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+graphicx.sty    2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+setspace.sty    2011/12/19 v6.7a set line spacing
+  xspace.sty    2014/10/28 v1.13 Space after command names (DPC,MH)
+  lineno.sty    2005/11/02 line numbers on paragraphs v4.41
+ layouts.sty    2009/09/02 v2.6d graphical depiction of document elements
+todonotes.sty    2012/07/25
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+ xkeyval.sty    2014/12/03 v2.7a package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+    tikz.sty    2015/08/07 v3.0.1a (rcs-revision 1.151)
+     pgf.sty    2015/08/07 v3.0.1a (rcs-revision 1.15)
+  pgfrcs.sty    2015/08/07 v3.0.1a (rcs-revision 1.31)
+everyshi.sty    2001/05/15 v3.00 EveryShipout Package (MS)
+  pgfrcs.code.tex
+ pgfcore.sty    2010/04/11 v3.0.1a (rcs-revision 1.7)
+  pgfsys.sty    2014/07/09 v3.0.1a (rcs-revision 1.48)
+  pgfsys.code.tex
+pgfsyssoftpath.code.tex    2013/09/09  (rcs-revision 1.9)
+pgfsysprotocol.code.tex    2006/10/16  (rcs-revision 1.4)
+ pgfcore.code.tex
+pgfcomp-version-0-65.sty    2007/07/03 v3.0.1a (rcs-revision 1.7)
+pgfcomp-version-1-18.sty    2007/07/23 v3.0.1a (rcs-revision 1.1)
+  pgffor.sty    2013/12/13 v3.0.1a (rcs-revision 1.25)
+ pgfkeys.sty    
+ pgfkeys.code.tex
+ pgfmath.sty    
+ pgfmath.code.tex
+  pgffor.code.tex
+    tikz.code.tex
+    calc.sty    2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+ragged2e.sty    2009/05/21 v2.1 ragged2e Package (MS)
+everysel.sty    2011/10/28 v1.2 EverySelectfont Package (MS)
+  natbib.sty    2010/09/13 8.31b (PWD, AO)
+   babel.sty    2016/04/23 3.9r The Babel package
+ bblopts.cfg    2005/09/08 v0.1 add Arabic and Farsi to "declared" options of b
+abel
+ english.ldf    2017/01/24 v3.3q English support from the babel system
+ english.ldf    2017/01/24 v3.3q English support from the babel system
+ amsmath.sty    2016/11/05 v2.16a AMS math features
+ amstext.sty    2000/06/29 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2016/03/08 v2.02 operator names
+   cover.tex
+abstract.tex
+      cv.tex
+acknowledgements.tex
+supp-pdf.mkii
+pdftexcmds.sty    2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
+ifluatex.sty    2016/05/16 v1.4 Provides the ifluatex switch (HO)
+   ifpdf.sty    2016/05/14 v3.1 Provides the ifpdf switch
+epstopdf-base.sty    2016/05/15 v2.6 Base part for package epstopdf
+  grfext.sty    2016/05/16 v1.2 Manage graphics extensions (HO)
+kvdefinekeys.sty    2016/05/16 v1.4 Define keys (HO)
+kvoptions.sty    2016/05/16 v3.12 Key value format for package options (HO)
+kvsetkeys.sty    2016/05/16 v1.17 Key value parser (HO)
+etexcmds.sty    2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+  omscmr.fd    2014/09/29 v2.5h Standard LaTeX font definitions
+ ccimage.png    Graphic file (type png)
+introduction.tex
+chapter2.tex
+Figures/chapter2/conveyor.pdf
+Figures/chapter2/pressurevh.pdf
+Figures/chapter2/collapse.pdf
+Figures/chapter2/etavtheta.pdf
+chapter3.tex
+Figures/chapter3/schematic.pdf
+Figures/chapter3/graphPanel.pdf
+Figures/chapter3/curveFitAndParameters.pdf
+Figures/chapter3/forcePlot.pdf
+chapter3Sup.tex
+Figures/chapter3sup/diagramSupplement.pdf
+Figures/chapter3sup/randomShape.pdf
+Figures/chapter3sup/forcePlotSupplement.pdf
+Figures/chapter3sup/supplementQuiver.pdf
+conclusion.tex
+    main.bbl
+ ***********
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15680 strings out of 493333
+ 300855 string characters out of 3139194
+ 378579 words of memory out of 3000000
+ 18836 multiletter control sequences out of 15000+200000
+ 5665 words of font info for 21 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,10n,79p,1711b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (42 pages, 24552906 bytes).
+PDF statistics:
+ 13037 PDF objects out of 15390 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+

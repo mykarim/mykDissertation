@@ -1,0 +1,25 @@
+\documentclass[dissertation, copyright, numbers, sort&compress]{uothesis}
+\usepackage[english,UKenglish]{babel}
+\usepackage{amsmath}
+%\usepackage{color}
+
+%%%PREFATORY PAGES
+\include{cover}
+\include{abstract}
+\include{cv}
+\include{acknowledgements}  %%acknowledgements page optional
+%\include{dedication} %%dedication page optional
+
+%%%MAIN DOCUMENT
+\begin{document}
+\maketitle
+%%%CHAPTERS
+\include{introduction}
+\include{chapter2}
+\include{chapter3}
+\include{chapter3Sup}
+\include{conclusion}
+%%BIBILIOGRAPHY
+\bibliographystyle{unsrtnat}
+\bibliography{mykDissertation} %%disbib.bib uses BibTex formatting.
+\end{document}
