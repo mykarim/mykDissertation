@@ -1,8 +1,381 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{42}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Jaeger and Nagel(1992)]{jaeger_physics_1992}
+H.~M. Jaeger and Sidney~R. Nagel.
+\newblock Physics of the granular state.
+\newblock \emph{Science}, 255\penalty0 (5051):\penalty0 1523--1531, March 1992.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.255.5051.1523}.
+\newblock URL \url{http://www.sciencemag.org/content/255/5051/1523}.
+\newblock {PMID:} 17820163.
+
+\bibitem[Jaeger et~al.(1996)Jaeger, Nagel, and Behringer]{jaeger_granular_1996}
+Heinrich~M. Jaeger, Sidney~R. Nagel, and Robert~P. Behringer.
+\newblock Granular solids, liquids, and gases.
+\newblock \emph{Reviews of Modern Physics}, 68\penalty0 (4):\penalty0
+  1259--1273, October 1996.
+\newblock \doi{10.1103/RevModPhys.68.1259}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.68.1259}.
+
+\bibitem[Liu and Nagel(1998)]{liu_nonlinear_1998}
+Andrea~J. Liu and Sidney~R. Nagel.
+\newblock Nonlinear dynamics: Jamming is not just cool any more.
+\newblock \emph{Nature}, 396\penalty0 (6706):\penalty0 21--22, November 1998.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/23819}.
+\newblock URL
+  \url{http://www.nature.com/nature/journal/v396/n6706/full/396021a0.html}.
+
+\bibitem[Trappe et~al.(2001)Trappe, Prasad, Cipelletti, Segre, and
+  Weitz]{trappe_jamming_2001}
+V.~Trappe, V.~Prasad, Luca Cipelletti, P.~N. Segre, and D.~A. Weitz.
+\newblock Jamming phase diagram for attractive particles.
+\newblock \emph{Nature}, 411\penalty0 (6839):\penalty0 772--775, June 2001.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/35081021}.
+\newblock URL
+  \url{http://www.nature.com/nature/journal/v411/n6839/full/411772a0.html}.
+
+\bibitem[Janssen(1895)]{janssen_versuche_1895}
+H.~A. Janssen.
+\newblock Versuche uber getreidedrack in silozellen.
+\newblock \emph{Zeitschrift des Vereines Deutscher Ingenieure}, 39:\penalty0
+  1045--1049, 1895.
+\newblock URL \url{http://www.phy.duke.edu/~msperl/Janssen/Janssen1895.pdf}.
+
+\bibitem[Duran(2000)]{duran_sands_2000}
+Jacques Duran.
+\newblock \emph{Sands, powders, and grains: an introduction to the physics of
+  granular materials}.
+\newblock Springer, New York, 2000.
+\newblock ISBN 0387986561 9780387986562.
+
+\bibitem[Sperl(2006)]{sperl_experiments_2006}
+Matthias Sperl.
+\newblock Experiments on corn pressure in silo cells translation and comment of
+  janssen's paper from 1895.
+\newblock \emph{Granular Matter}, 8\penalty0 (2):\penalty0 59--65, May 2006.
+\newblock ISSN 1434-5021, 1434-7636.
+\newblock \doi{10.1007/s10035-005-0224-z}.
+\newblock URL \url{http://link.springer.com/article/10.1007/s10035-005-0224-z}.
+
+\bibitem[Nedderman et~al.(1982)Nedderman, T{\"u}z{\"u}n, Savage, and
+  Houlsby]{nedderman_flow_1982}
+{R.M.} Nedderman, U.~T{\"u}z{\"u}n, {S.B.} Savage, and {G.T.} Houlsby.
+\newblock The flow of granular materials: Discharge rates from hoppers.
+\newblock \emph{Chemical Engineering Science}, 37\penalty0 (11):\penalty0
+  1597--1609, 1982.
+\newblock ISSN 0009-2509.
+\newblock \doi{10.1016/0009-2509(82)80029-8}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0009250982800298}.
+
+\bibitem[Kadanoff(1999)]{kadanoff_built_1999}
+Leo~P. Kadanoff.
+\newblock Built upon sand: Theoretical ideas inspired by granular flows.
+\newblock \emph{Reviews of Modern Physics}, 71\penalty0 (1):\penalty0 435--444,
+  January 1999.
+\newblock \doi{10.1103/RevModPhys.71.435}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.71.435}.
+
+\bibitem[de~Gennes(1999)]{de_gennes_granular_1999}
+P.~G. de~Gennes.
+\newblock Granular matter: a tentative view.
+\newblock \emph{Reviews of Modern Physics}, 71\penalty0 (2):\penalty0
+  S374--S382, March 1999.
+\newblock \doi{10.1103/RevModPhys.71.S374}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.71.S374}.
+
+\bibitem[Bertho et~al.(2003)Bertho, Giorgiutti-Dauphin{\'e}, and
+  Hulin]{bertho_dynamical_2003}
+Yann Bertho, Fr{\'e}d{\'e}rique Giorgiutti-Dauphin{\'e}, and Jean-Pierre Hulin.
+\newblock Dynamical janssen effect on granular packing with moving walls.
+\newblock \emph{Physical Review Letters}, 90\penalty0 (14), April 2003.
+\newblock ISSN 0031-9007, 1079-7114.
+\newblock \doi{10.1103/PhysRevLett.90.144301}.
+
+\bibitem[Landry et~al.(2003)Landry, Grest, Silbert, and
+  Plimpton]{landry_confined_2003}
+James~W. Landry, Gary~S. Grest, Leonardo~E. Silbert, and Steven~J. Plimpton.
+\newblock Confined granular packings: Structure, stress, and forces.
+\newblock \emph{Physical Review E}, 67\penalty0 (4):\penalty0 041303, April
+  2003.
+\newblock \doi{10.1103/PhysRevE.67.041303}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.67.041303}.
+
+\bibitem[Mankoc et~al.(2007)Mankoc, Janda, Ar{\'e}valo, Pastor, Zuriguel,
+  Garcimart{\'i}n, and Maza]{mankoc_flow_2007}
+C.~Mankoc, A.~Janda, R.~Ar{\'e}valo, J.~M. Pastor, I.~Zuriguel,
+  A.~Garcimart{\'i}n, and D.~Maza.
+\newblock The flow rate of granular materials through an orifice.
+\newblock \emph{Granular Matter}, 9\penalty0 (6):\penalty0 407--414, November
+  2007.
+\newblock ISSN 1434-5021, 1434-7636.
+\newblock \doi{10.1007/s10035-007-0062-2}.
+\newblock URL \url{http://link.springer.com/article/10.1007/s10035-007-0062-2}.
+
+\bibitem[Hilton and Cleary(2011)]{hilton_granular_2011}
+J.~E. Hilton and P.~W. Cleary.
+\newblock Granular flow during hopper discharge.
+\newblock \emph{Physical Review E}, 84\penalty0 (1):\penalty0 011307, July
+  2011.
+\newblock \doi{10.1103/PhysRevE.84.011307}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.84.011307}.
+
+\bibitem[Aguirre et~al.(2010)Aguirre, Grande, Calvo, Pugnaloni, and
+  G{\'e}minard]{aguirre_pressure_2010}
+M.~A. Aguirre, J.~G. Grande, A.~Calvo, L.~A. Pugnaloni, and J.-C. G{\'e}minard.
+\newblock Pressure independence of granular flow through an aperture.
+\newblock \emph{Physical Review Letters}, 104\penalty0 (23):\penalty0 238002,
+  June 2010.
+\newblock \doi{10.1103/PhysRevLett.104.238002}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.104.238002}.
+
+\bibitem[Aguirre et~al.(2011)Aguirre, Grande, Calvo, Pugnaloni, and
+  G{\'e}minard]{aguirre_granular_2011}
+Mar{\'i}a~Alejandra Aguirre, Juan~Gabriel Grande, Adriana Calvo, Luis~A.
+  Pugnaloni, and Jean-Christophe G{\'e}minard.
+\newblock Granular flow through an aperture: Pressure and flow rate are
+  independent.
+\newblock \emph{Physical Review E}, 83\penalty0 (6):\penalty0 061305, June
+  2011.
+\newblock \doi{10.1103/PhysRevE.83.061305}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.83.061305}.
+
+\bibitem[Farkas et~al.(2002)Farkas, Szalai, Wolf, and
+  Vicsek]{farkas_segregation_2002}
+Z{\'e}n{\'o} Farkas, Ferenc Szalai, Dietrich~E. Wolf, and Tam{\'a}s Vicsek.
+\newblock Segregation of granular binary mixtures by a ratchet mechanism.
+\newblock \emph{Physical Review E}, 65\penalty0 (2):\penalty0 022301, January
+  2002.
+\newblock \doi{10.1103/PhysRevE.65.022301}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.65.022301}.
+
+\bibitem[Mobarakabadi et~al.(2013)Mobarakabadi, Oskoee, Schr{\"o}ter, and
+  Habibi]{mobarakabadi_granular_2013}
+Shahin Mobarakabadi, Ehsan~Nedaaee Oskoee, Matthias Schr{\"o}ter, and Mehdi
+  Habibi.
+\newblock Granular transport in a horizontally vibrated sawtooth channel.
+\newblock \emph{Physical Review E}, 88\penalty0 (4):\penalty0 042201, October
+  2013.
+\newblock \doi{10.1103/PhysRevE.88.042201}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.88.042201}.
+
+\bibitem[Der{\'e}nyi et~al.(1998)Der{\'e}nyi, Tegzes, and
+  Vicsek]{derenyi_collective_1998}
+I.~Der{\'e}nyi, P.~Tegzes, and T.~Vicsek.
+\newblock Collective transport in locally asymmetric periodic structures.
+\newblock \emph{Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  8\penalty0 (3):\penalty0 657, 1998.
+\newblock ISSN 10541500.
+\newblock \doi{10.1063/1.166348}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/journal/chaos/8/3/10.1063/1.166348}.
+
+\bibitem[Farkas et~al.(1999)Farkas, Tegzes, Vukics, and
+  Vicsek]{farkas_transitions_1999}
+Z.~Farkas, P.~Tegzes, A.~Vukics, and T.~Vicsek.
+\newblock Transitions in the horizontal transport of vertically vibrated
+  granular layers.
+\newblock \emph{Physical Review E}, 60\penalty0 (6):\penalty0 7022--7031,
+  December 1999.
+\newblock \doi{10.1103/PhysRevE.60.7022}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.60.7022}.
+
+\bibitem[Caughey et~al.(1951)Caughey, Tooles, and Scheer]{caughey_lateral_1951}
+Robert~Andrew Caughey, Calvin~W. Tooles, and Alfred~C. Scheer.
+\newblock \emph{Lateral and vertical pressure of granular material in deep
+  bins}.
+\newblock Iowa State College of Agriculture and Mechanic Arts, 1951.
+
+\bibitem[Sundaram and Cowin(1979)]{sundaram_reassessment_1979}
+V.~Sundaram and {S.C.} Cowin.
+\newblock A reassessment of static bin pressure experiments.
+\newblock \emph{Powder Technology}, 22\penalty0 (1):\penalty0 23--32, January
+  1979.
+\newblock ISSN 0032-5910.
+\newblock \doi{10.1016/0032-5910(79)85004-4}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0032591079850044}.
+
+\bibitem[Atewologun and Riskowski(1991)]{atewologun_experimental_1991}
+{A.O.} Atewologun and {G.L.} Riskowski.
+\newblock Experimental determination of janssen's stress ratio by four methods
+  for soybeans under static conditions.
+\newblock \emph{Transactions of the {ASAE}}, 34, 1991.
+\newblock ISSN 0001-2351.
+
+\bibitem[Rusinek(2003)]{rusinek_experimental_2003}
+R.~Rusinek.
+\newblock Experimental method for determination of the pressure distribution in
+  granular solids.
+\newblock \emph{Research in Agricultural Engineering - {UZPI}}, v. 49(2) p.,
+  June 2003.
+\newblock ISSN 1212-9151.
+
+\bibitem[Soller and Koehler(2006)]{soller_drag_2006}
+Raenell Soller and Stephan~A. Koehler.
+\newblock Drag and lift on rotating vanes in granular beds.
+\newblock \emph{Phys. Rev. E}, 74\penalty0 (2):\penalty0 021305, August 2006.
+\newblock \doi{10.1103/PhysRevE.74.021305}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.74.021305}.
+
+\bibitem[Ding et~al.(2011)Ding, Gravish, and Goldman]{ding_drag_2011}
+Yang Ding, Nick Gravish, and Daniel~I. Goldman.
+\newblock Drag induced lift in granular media.
+\newblock \emph{Phys. Rev. Lett.}, 106\penalty0 (2):\penalty0 028001, January
+  2011.
+\newblock \doi{10.1103/PhysRevLett.106.028001}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.106.028001}.
+
+\bibitem[Potiguar(2011)]{potiguar_lift_2011}
+Fabricio~Q. Potiguar.
+\newblock Lift force on an asymmetrical obstacle immersed in a dilute granular
+  flow.
+\newblock \emph{Phys. Rev. E}, 84\penalty0 (6):\penalty0 061302, December 2011.
+\newblock \doi{10.1103/PhysRevE.84.061302}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.84.061302}.
+
+\bibitem[Potiguar and Ding(2013)]{potiguar_lift_2013}
+Fabricio~Q. Potiguar and Yang Ding.
+\newblock Lift and drag in intruders moving through hydrostatic granular media
+  at high speeds.
+\newblock \emph{Phys. Rev. E}, 88\penalty0 (1):\penalty0 012204, July 2013.
+\newblock \doi{10.1103/PhysRevE.88.012204}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.88.012204}.
+
+\bibitem[Haff(1983)]{haff_grain_1983}
+P.~K. Haff.
+\newblock Grain flow as a fluid-mechanical phenomenon.
+\newblock \emph{Journal of Fluid Mechanics}, 134:\penalty0 401--430, September
+  1983.
+\newblock ISSN 1469-7645, 0022-1120.
+\newblock \doi{10.1017/S0022112083003419}.
+
+\bibitem[Rericha et~al.(2001)Rericha, Bizon, Shattuck, and
+  Swinney]{rericha_shocks_2001}
+Erin~C. Rericha, Chris Bizon, Mark~D. Shattuck, and Harry~L. Swinney.
+\newblock Shocks in {Supersonic} {Sand}.
+\newblock \emph{Phys. Rev. Lett.}, 88\penalty0 (1):\penalty0 014302, December
+  2001.
+\newblock \doi{10.1103/PhysRevLett.88.014302}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.88.014302}.
+
+\bibitem[Amarouchene and Kellay(2006)]{amarouchene_speed_2006}
+Yacine Amarouchene and Hamid Kellay.
+\newblock Speed of sound from shock fronts in granular flows.
+\newblock \emph{Physics of Fluids (1994-present)}, 18\penalty0 (3):\penalty0
+  031707, March 2006.
+\newblock ISSN 1070-6631, 1089-7666.
+\newblock \doi{10.1063/1.2185689}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/journal/pof2/18/3/10.1063/1.2185689}.
+
+\bibitem[Boudet et~al.(2008)Boudet, Amarouchene, and Kellay]{boudet_shock_2008}
+J.~F. Boudet, Y.~Amarouchene, and H.~Kellay.
+\newblock Shock front width and structure in supersonic granular flows.
+\newblock \emph{Phys. Rev. Lett.}, 101\penalty0 (25):\penalty0 254503, December
+  2008.
+\newblock \doi{10.1103/PhysRevLett.101.254503}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.101.254503}.
+
+\bibitem[Boudet and Kellay(2010)]{boudet_drag_2010}
+J.~F. Boudet and H.~Kellay.
+\newblock Drag coefficient for a circular obstacle in a quasi-two-dimensional
+  dilute supersonic granular flow.
+\newblock \emph{Phys. Rev. Lett.}, 105\penalty0 (10):\penalty0 104501, August
+  2010.
+\newblock \doi{10.1103/PhysRevLett.105.104501}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.105.104501}.
+
+\bibitem[Clark et~al.(2016)Clark, Kondic, and Behringer]{clark_steady_2016}
+Abram~H. Clark, Lou Kondic, and Robert~P. Behringer.
+\newblock Steady flow dynamics during granular impact.
+\newblock \emph{Phys. Rev. E}, 93\penalty0 (5):\penalty0 050901, May 2016.
+\newblock \doi{10.1103/PhysRevE.93.050901}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.93.050901}.
+
+\bibitem[Jiao et~al.(2009)Jiao, Stillinger, and Torquato]{jiao_optimal_2009}
+Y.~Jiao, F.~H. Stillinger, and S.~Torquato.
+\newblock Optimal packings of superballs.
+\newblock \emph{Phys. Rev. E}, 79\penalty0 (4):\penalty0 041309, April 2009.
+\newblock \doi{10.1103/PhysRevE.79.041309}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.79.041309}.
+
+\bibitem[Thielicke and Stamhuis(2014)]{thielicke_pivlab_2014}
+William Thielicke and Eize Stamhuis.
+\newblock Pivlab – towards user-friendly, affordable and accurate digital
+  particle image velocimetry in matlab.
+\newblock \emph{Journal of Open Research Software}, 2\penalty0 (1), October
+  2014.
+\newblock ISSN 2049-9647.
+\newblock \doi{10.5334/jors.bl}.
+\newblock URL
+  \url{http://openresearchsoftware.metajnl.com/articles/10.5334/jors.bl/}.
+
+\bibitem[Amarouchene et~al.(2001)Amarouchene, Boudet, and
+  Kellay]{amarouchene_dynamic_2001}
+Y.~Amarouchene, J.~F. Boudet, and H.~Kellay.
+\newblock Dynamic sand dunes.
+\newblock \emph{Phys. Rev. Lett.}, 86\penalty0 (19):\penalty0 4286--4289, May
+  2001.
+\newblock \doi{10.1103/PhysRevLett.86.4286}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.86.4286}.
+
+\bibitem[Wassgren et~al.(2003)Wassgren, Cordova, Zenit, and
+  Karion]{wassgren_dilute_2003}
+C.~R. Wassgren, J.~A. Cordova, R.~Zenit, and A.~Karion.
+\newblock Dilute granular flow around an immersed cylinder.
+\newblock \emph{Physics of Fluids (1994-present)}, 15\penalty0 (11):\penalty0
+  3318--3330, November 2003.
+\newblock ISSN 1070-6631, 1089-7666.
+\newblock \doi{10.1063/1.1608937}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/journal/pof2/15/11/10.1063/1.1608937}.
+
+\bibitem[Knoll et~al.(2007)Knoll, Mirzaei, and Köhn]{knoll_numerical_2007}
+Peter Knoll, Siroos Mirzaei, and Horst Köhn.
+\newblock Numerical simulation of dynamic sand dunes.
+\newblock \emph{Applied Mathematics and Computation}, 190\penalty0
+  (2):\penalty0 1747--1753, July 2007.
+\newblock ISSN 0096-3003.
+\newblock \doi{10.1016/j.amc.2007.02.115}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0096300307002226}.
+
+\bibitem[Meyer and Merlino(2013)]{meyer_transient_2013}
+John~K. Meyer and Robert~L. Merlino.
+\newblock Transient bow shock around a cylinder in a supersonic dusty plasma.
+\newblock \emph{Physics of Plasmas (1994-present)}, 20\penalty0 (7):\penalty0
+  074501, July 2013.
+\newblock ISSN 1070-664X, 1089-7674.
+\newblock \doi{10.1063/1.4812460}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/journal/pop/20/7/10.1063/1.4812460}.
+
+\bibitem[Vilquin et~al.(2016)Vilquin, Boudet, and
+  Kellay]{vilquin_structure_2016}
+A.~Vilquin, J.~F. Boudet, and H.~Kellay.
+\newblock Structure of velocity distributions in shock waves in granular gases
+  with extension to molecular gases.
+\newblock \emph{Phys. Rev. E}, 94\penalty0 (2):\penalty0 022905, August 2016.
+\newblock \doi{10.1103/PhysRevE.94.022905}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevE.94.022905}.
+
+\bibitem[Mounfield and Edwards(1996)]{mounfield_theoretical_1996}
+C.~C. Mounfield and S.~F. Edwards.
+\newblock A theoretical model for the stress distribution in granular matter.
+  ii. forces in pipes.
+\newblock \emph{Physica A: Statistical Mechanics and its Applications},
+  226\penalty0 (1):\penalty0 12--24, April 1996.
+\newblock ISSN 0378-4371.
+\newblock \doi{10.1016/0378-4371(95)00376-2}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0378437195003762}.
 
 \end{thebibliography}

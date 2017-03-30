@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  28 MAR 2017 00:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  29 MAR 2017 23:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -702,18 +702,18 @@ LaTeX Info: Redefining \] on input line 2818.
 (chapter3.aux) (chapter3Sup.aux) (conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -777,10 +777,10 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 
-Package layouts Warning: Layout scale set to 0.5 on input line 14.
+Package layouts Warning: Layout scale set to 0.5 on input line 23.
 
 ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 14.
+LaTeX Info: Redefining \selectfont on input line 23.
 
 [1
 
@@ -795,18 +795,18 @@ LaTeX Info: Redefining \selectfont on input line 14.
 {C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
 
 <ccimage.png, id=12, 323.2075pt x 112.42pt>
 File: ccimage.png Graphic file (type png)
  <use ccimage.png>
-Package pdftex.def Info: ccimage.png used on input line 15.
+Package pdftex.def Info: ccimage.png used on input line 24.
 (pdftex.def)             Requested size: 80.80167pt x 28.10492pt.
  [3
 
@@ -817,7 +817,7 @@ Package pdftex.def Info: ccimage.png used on input line 15.
 ] [7
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
  
  []
 
@@ -866,7 +866,7 @@ Overfull \hbox (21.11113pt too wide) detected at line 13
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
  
  []
 
@@ -1199,7 +1199,7 @@ Overfull \hbox (5.09215pt too wide) in paragraph at lines 13--13
 \openout5 = `main.lof'.
 
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
  
  []
 
@@ -1220,6 +1220,12 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+[1
+
+
+
+
+]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1241,74 +1247,42 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+ [2]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [1
-
-
-
-
-] [2] [3]
+) [3]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
 [Eliminating friction with friction: 2D Janssen effect in a friction-driven sys
 tem]
-
-Package natbib Warning: Citation `jaeger_physics_1992' on page 4 undefined on i
-nput line 22.
-
-
-Package natbib Warning: Citation `jaeger_granular_1996' on page 4 undefined on 
-input line 22.
-
-
-Package natbib Warning: Citation `liu_nonlinear_1998' on page 4 undefined on in
-put line 22.
-
-
-Package natbib Warning: Citation `trappe_jamming_2001' on page 4 undefined on i
-nput line 22.
-
-
-Package natbib Warning: Citation `janssen_versuche_1895' on page 4 undefined on
- input line 22.
-
-
-Package natbib Warning: Citation `duran_sands_2000' on page 4 undefined on inpu
-t line 22.
-
-
-Package natbib Warning: Citation `sperl_experiments_2006' on page 4 undefined o
-n input line 22.
-
 <Figures/chapter2/conveyor.pdf, id=59, 807.25589pt x 493.845pt>
 File: Figures/chapter2/conveyor.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/conveyor.pdf>
-Package pdftex.def Info: Figures/chapter2/conveyor.pdf used on input line 25.
+Package pdftex.def Info: Figures/chapter2/conveyor.pdf used on input line 16.
 (pdftex.def)             Requested size: 433.62pt x 265.27072pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 []\OT1/cmr/m/n/10 FIGURE 1. |Dia-gram of the ex-per-i-mental setup. The nick-el
 s are driven by the belt into a 2D
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 \OT1/cmr/m/n/10 con-tainer that is sta-tion-ary. The nick-els are blocked at on
 e end by an ac-rylic bar-rier which presses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 \OT1/cmr/m/n/10 against two force sensors A and B as the nick-els ac-cu-mu-late
  against this sur-face. The nick-els are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 \OT1/cmr/m/n/10 con-fined on the sides by walls con-struc-ted from ABS and with
  saw-tooth pat-terns en-graved on the
  []
@@ -1317,95 +1291,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 
 
 
-]
-
-Package natbib Warning: Citation `nedderman_flow_1982' on page 5 undefined on i
-nput line 31.
-
-
-Package natbib Warning: Citation `kadanoff_built_1999' on page 5 undefined on i
-nput line 31.
-
-
-Package natbib Warning: Citation `de_gennes_granular_1999' on page 5 undefined 
-on input line 31.
-
-
-Package natbib Warning: Citation `bertho_dynamical_2003' on page 5 undefined on
- input line 31.
-
-
-Package natbib Warning: Citation `landry_confined_2003' on page 5 undefined on 
-input line 31.
-
-
-Package natbib Warning: Citation `mankoc_flow_2007' on page 5 undefined on inpu
-t line 31.
-
-
-Package natbib Warning: Citation `hilton_granular_2011' on page 5 undefined on 
-input line 31.
-
-
-Package natbib Warning: Citation `aguirre_pressure_2010' on page 5 undefined on
- input line 31.
-
-
-Package natbib Warning: Citation `aguirre_granular_2011' on page 5 undefined on
- input line 31.
-
-[5 <./Figures/chapter2/conveyor.pdf>]
-
-Package natbib Warning: Citation `farkas_segregation_2002' on page 6 undefined 
-on input line 33.
-
-
-Package natbib Warning: Citation `mobarakabadi_granular_2013' on page 6 undefin
-ed on input line 33.
-
-
-Package natbib Warning: Citation `derenyi_collective_1998' on page 6 undefined 
-on input line 33.
-
-
-Package natbib Warning: Citation `farkas_transitions_1999' on page 6 undefined 
-on input line 33.
-
-
-Package natbib Warning: Citation `janssen_versuche_1895' on page 6 undefined on
- input line 49.
-
-
-Package natbib Warning: Citation `sperl_experiments_2006' on page 6 undefined o
-n input line 49.
-
-
-Package natbib Warning: Citation `duran_sands_2000' on page 6 undefined on inpu
-t line 49.
-
-[6] <Figures/chapter2/pressurevh.pdf, id=498, 438.63875pt x 427.5975pt>
+] [5 <./Figures/chapter2/conveyor.pdf>] [6]
+<Figures/chapter2/pressurevh.pdf, id=498, 438.63875pt x 427.5975pt>
 File: Figures/chapter2/pressurevh.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/pressurevh.pdf>
-Package pdftex.def Info: Figures/chapter2/pressurevh.pdf used on input line 63.
+Package pdftex.def Info: Figures/chapter2/pressurevh.pdf used on input line 54.
 
 (pdftex.def)             Requested size: 433.62pt x 422.71603pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []\OT1/cmr/m/n/10 FIGURE 2. |Meas-ured force $(\OML/cmm/m/it/10 F\OT1/cmr/m/n/1
 0 )$ per con-tainer width $(\OML/cmm/m/it/10 w\OT1/cmr/m/n/10 )$ is plot-ted at
  vari-ous filling heights
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \OT1/cmr/m/n/10 for $\OML/cmm/m/it/10  \OT1/cmr/m/n/10 = 0[]$, $5[]$, $7\OML/c
 mm/m/it/10 :\OT1/cmr/m/n/10 5[]$, $10[]$, $15[]$, $20[]$, $30[]$, $40[]$, $45[]
 $ and $90[]$. The data is fit-ted to the equa-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \OML/cmm/m/it/10 F=w \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (1 
 \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 exp\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OML/
 cmm/m/it/10 x=\OT1/cmr/m/n/10 ))$ (solid lines). The bot-tom pres-sure $(\OML/
@@ -1413,13 +1322,13 @@ cmm/m/it/10 F=w\OT1/cmr/m/n/10 )$ sat-ur-ates faster
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \OT1/cmr/m/n/10 with in-creas-ing angle of in-clin-a-tion of the tri-angles alo
 ng the side walls. At very low angles of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \OT1/cmr/m/n/10 in-clin-a-tion ($\OML/cmm/m/it/10 $ $\OT1/cmr/m/n/10 =$ $0[]$,
  $5[]$, $7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5[]$) the bot-tom pres-sure in-crea
 ses nearly lin-early for the ob-served filling
@@ -1430,10 +1339,10 @@ ses nearly lin-early for the ob-served filling
 File: Figures/chapter2/collapse.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/collapse.pdf>
-Package pdftex.def Info: Figures/chapter2/collapse.pdf used on input line 76.
+Package pdftex.def Info: Figures/chapter2/collapse.pdf used on input line 67.
 (pdftex.def)             Requested size: 433.62pt x 417.23982pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []\OT1/cmr/m/n/10 FIGURE 3. |The di-men-sion-less quant-ity $\OML/cmm/m/it/10 F
 =\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 wg\OT1/cmr/m/n/10 )$ is plot-ted against $
 \OML/cmm/m/it/10 x=$ \OT1/cmr/m/n/10 for sev-eral val-ues of $\OML/cmm/m/it/10
@@ -1444,105 +1353,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 File: Figures/chapter2/etavtheta.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/etavtheta.pdf>
-Package pdftex.def Info: Figures/chapter2/etavtheta.pdf used on input line 86.
+Package pdftex.def Info: Figures/chapter2/etavtheta.pdf used on input line 77.
 (pdftex.def)             Requested size: 433.62pt x 286.20882pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []\OT1/cmr/m/n/10 FIGURE 4. |Fit-ted val-ues of char-ac-ter-istic filling heigh
 t per con-tainer width is plot-ted against
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \OT1/cmr/m/n/10 vari-ous angles of in-clin-a-tion. The data is fit-ted to our m
 odel of $\OML/cmm/m/it/10 $ \OT1/cmr/m/n/10 as a func-tion of the angle of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \OT1/cmr/m/n/10 in-clin-a-tion $\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 , as de-scri
 bed in equa-tion. In-set is an il-lus-tra-tion of the in-ter-ac-tion of forces 
 ne-ces-sary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \OT1/cmr/m/n/10 to cre-ate a mech-an-ical fric-tion that in-creases with in-cre
 as-ing $\OML/cmm/m/it/10 $\OT1/cmr/m/n/10 . Con-sequently higher $\OML/cmm/m/i
 t/10 $ \OT1/cmr/m/n/10 leads to
  []
 
 [9] [10 <./Figures/chapter2/collapse.pdf>] [11 <./Figures/chapter2/etavtheta.pd
-f>]
-
-Package natbib Warning: Citation `janssen_versuche_1895' on page 12 undefined o
-n input line 110.
-
-
-Package natbib Warning: Citation `caughey_lateral_1951' on page 12 undefined on
- input line 110.
-
-
-Package natbib Warning: Citation `sundaram_reassessment_1979' on page 12 undefi
-ned on input line 110.
-
-
-Package natbib Warning: Citation `atewologun_experimental_1991' on page 12 unde
-fined on input line 110.
-
-
-Package natbib Warning: Citation `rusinek_experimental_2003' on page 12 undefin
-ed on input line 110.
-
-) [12] [13]
+f>]) [12] [13]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
 [Universality in quasi-2D granular shock fronts above an intruder]
-
-Package natbib Warning: Citation `soller_drag_2006' on page 14 undefined on inp
-ut line 21.
-
-
-Package natbib Warning: Citation `ding_drag_2011' on page 14 undefined on input
- line 21.
-
-
-Package natbib Warning: Citation `potiguar_lift_2011' on page 14 undefined on i
-nput line 21.
-
-
-Package natbib Warning: Citation `potiguar_lift_2013' on page 14 undefined on i
-nput line 21.
-
-
-Package natbib Warning: Citation `haff_grain_1983' on page 14 undefined on inpu
-t line 21.
-
-
-Package natbib Warning: Citation `rericha_shocks_2001' on page 14 undefined on 
-input line 21.
-
-
-Package natbib Warning: Citation `amarouchene_speed_2006' on page 14 undefined 
-on input line 21.
-
-
-Package natbib Warning: Citation `rericha_shocks_2001' on page 14 undefined on 
-input line 21.
-
-
-Package natbib Warning: Citation `boudet_shock_2008' on page 14 undefined on in
-put line 21.
-
-
-Package natbib Warning: Citation `boudet_drag_2010' on page 14 undefined on inp
-ut line 21.
-
-
-Package natbib Warning: Citation `potiguar_lift_2011' on page 14 undefined on i
-nput line 21.
-
 <Figures/chapter3/schematic.pdf, id=616, 712.3413pt x 587.19376pt>
 File: Figures/chapter3/schematic.pdf Graphic file (type pdf)
 
@@ -1585,66 +1429,8 @@ sus local shear rate, and shear rate versus
 
 
 
-] [15 <./Figures/chapter3/schematic.pdf>]
-
-Package natbib Warning: Citation `rericha_shocks_2001' on page 16 undefined on 
-input line 37.
-
-
-Package natbib Warning: Citation `amarouchene_speed_2006' on page 16 undefined 
-on input line 37.
-
-
-Package natbib Warning: Citation `clark_steady_2016' on page 16 undefined on in
-put line 37.
-
-[16 <./Figures/chapter3/graphPanel.pdf>]
-
-Package natbib Warning: Citation `jiao_optimal_2009' on page 17 undefined on in
-put line 41.
-
-
-Package natbib Warning: Citation `thielicke_pivlab_2014' on page 17 undefined o
-n input line 50.
-
-
-Package natbib Warning: Citation `amarouchene_dynamic_2001' on page 17 undefine
-d on input line 50.
-
-
-Package natbib Warning: Citation `wassgren_dilute_2003' on page 17 undefined on
- input line 50.
-
-
-Package natbib Warning: Citation `knoll_numerical_2007' on page 17 undefined on
- input line 50.
-
-
-Package natbib Warning: Citation `boudet_shock_2008' on page 17 undefined on in
-put line 50.
-
-
-Package natbib Warning: Citation `meyer_transient_2013' on page 17 undefined on
- input line 50.
-
-
-Package natbib Warning: Citation `vilquin_structure_2016' on page 17 undefined 
-on input line 50.
-
-
-Package natbib Warning: Citation `clark_steady_2016' on page 17 undefined on in
-put line 56.
-
-[17]
-
-Package natbib Warning: Citation `mounfield_theoretical_1996' on page 18 undefi
-ned on input line 64.
-
-
-Package natbib Warning: Citation `mounfield_theoretical_1996' on page 18 undefi
-ned on input line 66.
-
-[18]
+] [15 <./Figures/chapter3/schematic.pdf>] [16 <./Figures/chapter3/graphPanel.pd
+f>] [17] [18]
 <Figures/chapter3/curveFitAndParameters.pdf, id=1162, 540.0175pt x 484.47699pt>
 File: Figures/chapter3/curveFitAndParameters.pdf Graphic file (type pdf)
 <use Figures/chapter3/curveFitAndParameters.pdf>
@@ -1863,32 +1649,28 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [29
+
+Underfull \hbox (badness 1292) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/10 Chapter 3 fo-cused on a dif-fer-ent as-pect of gran-u-lar ma-
+ter-i-als  spe-cific-ally the 
+ []
+
+[29
 
 
 
-] [30] (main.bbl
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \end{thebibliography}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
-
-Package natbib Warning: There were undefined citations.
-
-[31
+]) [30] [31] (main.bbl [32
 
 
-] (main.aux (introduction.aux) (chapter2.aux) (chapter3.aux)
-(chapter3Sup.aux) (conclusion.aux))
+] [33]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [34]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+) [35] (main.aux (introduction.aux)
+(chapter2.aux) (chapter3.aux) (chapter3Sup.aux) (conclusion.aux))
 
  *File List*
 uothesis.cls    
@@ -1989,11 +1771,11 @@ conclusion.tex
 
  ) 
 Here is how much of TeX's memory you used:
- 15680 strings out of 493333
- 300855 string characters out of 3139194
- 378579 words of memory out of 3000000
- 18836 multiletter control sequences out of 15000+200000
- 5665 words of font info for 21 fonts, out of 3000000 for 9000
+ 15770 strings out of 493333
+ 303535 string characters out of 3139194
+ 381097 words of memory out of 3000000
+ 18925 multiletter control sequences out of 15000+200000
+ 5833 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,10n,79p,1711b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
@@ -2006,10 +1788,11 @@ msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (42 pages, 24552906 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (46 pages, 24587953 bytes).
 PDF statistics:
- 13037 PDF objects out of 15390 (max. 8388607)
+ 13054 PDF objects out of 15390 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,22 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter3Sup.aux
+A level-1 auxiliary file: conclusion.aux
 The style file: unsrtnat.bst
-I found no \citation commands---while reading file main.aux
 Database file #1: mykDissertation.bib
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 987 of file mykDissertation.bib
+ : 
+ : @article{wyart_stability_2012,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1203 of file mykDissertation.bib
+ : @article{liu_nonlinear_1998
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2584 of file mykDissertation.bib
+ : @article{janssen_versuche_1895
+ :                               ,
+I'm skipping whatever remains of this entry
+(There were 3 error messages)
