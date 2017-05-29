@@ -1,9 +1,112 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{51}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schiffer(2005)]{schiffer_granular_2005}
+Peter Schiffer.
+\newblock Granular physics: {A} bridge to sandpile stability.
+\newblock \emph{Nature Physics}, 1\penalty0 (1):\penalty0 21--22, October 2005.
+\newblock ISSN 1745-2473.
+\newblock \doi{10.1038/nphys129}.
+\newblock URL
+  \url{http://www.nature.com/nphys/journal/v1/n1/full/nphys129.html}.
+
+\bibitem[Wilkinson et~al.(2005)Wilkinson, Behringer, Jenkins, and
+  Louge]{mars_and_moon}
+R.~Allen Wilkinson, Robert~P. Behringer, James~T. Jenkins, and Michel~Y. Louge.
+\newblock Granular materials and the risks they pose for success on the moon
+  and mars.
+\newblock \emph{AIP Conference Proceedings}, 746\penalty0 (1):\penalty0
+  1216--1223, 2005.
+\newblock \doi{10.1063/1.1867248}.
+\newblock URL \url{http://aip.scitation.org/doi/abs/10.1063/1.1867248}.
+
+\bibitem[Brilliantov et~al.(2015)Brilliantov, Krapivsky, Bodrova, Spahn,
+  Hayakawa, Stadnichuk, and Schmidt]{brilliantov_size_2015}
+Nikolai Brilliantov, P.~L. Krapivsky, Anna Bodrova, Frank Spahn, Hisao
+  Hayakawa, Vladimir Stadnichuk, and Jürgen Schmidt.
+\newblock Size distribution of particles in {Saturn}’s rings from aggregation
+  and fragmentation.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 112\penalty0
+  (31):\penalty0 9536--9541, August 2015.
+\newblock ISSN 0027-8424, 1091-6490.
+\newblock \doi{10.1073/pnas.1503957112}.
+\newblock URL \url{http://www.pnas.org/content/112/31/9536}.
+
+\bibitem[Ballouz et~al.(2017)Ballouz, Richardson, and Morishima]{saturn_2017}
+Ronald-Louis Ballouz, Derek~C. Richardson, and Ryuji Morishima.
+\newblock Numerical simulations of saturn’s b ring: Granular friction as a
+  mediator between self-gravity wakes and viscous overstability.
+\newblock \emph{The Astronomical Journal}, 153\penalty0 (4):\penalty0 146,
+  2017.
+\newblock URL \url{http://stacks.iop.org/1538-3881/153/i=4/a=146}.
+
+\bibitem[Duran(2000)]{duran_sands_2000}
+Jacques Duran.
+\newblock \emph{Sands, powders, and grains: an introduction to the physics of
+  granular materials}.
+\newblock Springer, New York, 2000.
+\newblock ISBN 0387986561 9780387986562.
+
+\bibitem[Jaeger et~al.(1996)Jaeger, Nagel, and Behringer]{jaeger_granular_1996}
+Heinrich~M. Jaeger, Sidney~R. Nagel, and Robert~P. Behringer.
+\newblock Granular solids, liquids, and gases.
+\newblock \emph{Reviews of Modern Physics}, 68\penalty0 (4):\penalty0
+  1259--1273, October 1996.
+\newblock \doi{10.1103/RevModPhys.68.1259}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.68.1259}.
+
+\bibitem[Rosato et~al.(1987)Rosato, Strandburg, Prinz, and Swendsen]{rosato}
+Anthony Rosato, Katherine~J. Strandburg, Friedrich Prinz, and Robert~H.
+  Swendsen.
+\newblock Why the brazil nuts are on top: Size segregation of particulate
+  matter by shaking.
+\newblock \emph{Phys. Rev. Lett.}, 58:\penalty0 1038--1040, Mar 1987.
+\newblock \doi{10.1103/PhysRevLett.58.1038}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevLett.58.1038}.
+
+\bibitem[Hong et~al.(2001)Hong, Quinn, and Luding]{hong}
+Daniel~C. Hong, Paul~V. Quinn, and Stefan Luding.
+\newblock Reverse brazil nut problem: Competition between percolation and
+  condensation.
+\newblock \emph{Phys. Rev. Lett.}, 86:\penalty0 3423--3426, Apr 2001.
+\newblock \doi{10.1103/PhysRevLett.86.3423}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevLett.86.3423}.
+
+\bibitem[Janssen(1895)]{janssen_versuche_1895}
+H.~A. Janssen.
+\newblock Versuche uber getreidedrack in silozellen.
+\newblock \emph{Zeitschrift des Vereines Deutscher Ingenieure}, 39:\penalty0
+  1045--1049, 1895.
+\newblock URL \url{http://www.phy.duke.edu/~msperl/Janssen/Janssen1895.pdf}.
+
+\bibitem[Karim and Corwin(2014)]{karim_corwin}
+M.~Yasinul Karim and Eric~I. Corwin.
+\newblock Eliminating friction with friction: 2d janssen effect in a
+  friction-driven system.
+\newblock \emph{Phys. Rev. Lett.}, 112:\penalty0 188001, May 2014.
+\newblock \doi{10.1103/PhysRevLett.112.188001}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevLett.112.188001}.
+
+\bibitem[Goldstein et~al.(2002)Goldstein, Poole, Safko, and
+  Addison]{goldstein_classical_2002}
+Herbert Goldstein, Charles Poole, John Safko, and Stephen~R. Addison.
+\newblock Classical {Mechanics}, 3rd ed.
+\newblock \emph{American Journal of Physics}, 70\penalty0 (7):\penalty0
+  782--783, 2002.
+\newblock ISSN 0002-9505.
+\newblock \doi{10.1119/1.1484149}.
+
+\bibitem[Mareno and English(2009)]{mareno}
+A~Mareno and L~Q English.
+\newblock The stability of the catenary shapes for a hanging cable of
+  unspecified length.
+\newblock \emph{European Journal of Physics}, 30\penalty0 (1):\penalty0 97,
+  2009.
+\newblock URL \url{http://stacks.iop.org/0143-0807/30/i=1/a=010}.
 
 \bibitem[Jaeger and Nagel(1992)]{jaeger_physics_1992}
 H.~M. Jaeger and Sidney~R. Nagel.
@@ -13,14 +116,6 @@ H.~M. Jaeger and Sidney~R. Nagel.
 \newblock \doi{10.1126/science.255.5051.1523}.
 \newblock URL \url{http://www.sciencemag.org/content/255/5051/1523}.
 \newblock {PMID:} 17820163.
-
-\bibitem[Jaeger et~al.(1996)Jaeger, Nagel, and Behringer]{jaeger_granular_1996}
-Heinrich~M. Jaeger, Sidney~R. Nagel, and Robert~P. Behringer.
-\newblock Granular solids, liquids, and gases.
-\newblock \emph{Reviews of Modern Physics}, 68\penalty0 (4):\penalty0
-  1259--1273, October 1996.
-\newblock \doi{10.1103/RevModPhys.68.1259}.
-\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.68.1259}.
 
 \bibitem[Liu and Nagel(1998)]{liu_nonlinear_1998}
 Andrea~J. Liu and Sidney~R. Nagel.
@@ -40,20 +135,6 @@ V.~Trappe, V.~Prasad, Luca Cipelletti, P.~N. Segre, and D.~A. Weitz.
 \newblock \doi{10.1038/35081021}.
 \newblock URL
   \url{http://www.nature.com/nature/journal/v411/n6839/full/411772a0.html}.
-
-\bibitem[Janssen(1895)]{janssen_versuche_1895}
-H.~A. Janssen.
-\newblock Versuche uber getreidedrack in silozellen.
-\newblock \emph{Zeitschrift des Vereines Deutscher Ingenieure}, 39:\penalty0
-  1045--1049, 1895.
-\newblock URL \url{http://www.phy.duke.edu/~msperl/Janssen/Janssen1895.pdf}.
-
-\bibitem[Duran(2000)]{duran_sands_2000}
-Jacques Duran.
-\newblock \emph{Sands, powders, and grains: an introduction to the physics of
-  granular materials}.
-\newblock Springer, New York, 2000.
-\newblock ISBN 0387986561 9780387986562.
 
 \bibitem[Sperl(2006)]{sperl_experiments_2006}
 Matthias Sperl.

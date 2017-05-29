@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  30 MAR 2017 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  1 APR 2017 17:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -702,18 +702,18 @@ LaTeX Info: Redefining \] on input line 2818.
 (chapter3.aux) (chapter3Sup.aux) (conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -777,10 +777,10 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 
-Package layouts Warning: Layout scale set to 0.5 on input line 23.
+Package layouts Warning: Layout scale set to 0.5 on input line 24.
 
 ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 23.
+LaTeX Info: Redefining \selectfont on input line 24.
 
 [1
 
@@ -795,18 +795,18 @@ LaTeX Info: Redefining \selectfont on input line 23.
 {C:/Users/admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
 
 <ccimage.png, id=12, 323.2075pt x 112.42pt>
 File: ccimage.png Graphic file (type png)
  <use ccimage.png>
-Package pdftex.def Info: ccimage.png used on input line 24.
+Package pdftex.def Info: ccimage.png used on input line 25.
 (pdftex.def)             Requested size: 80.80167pt x 28.10492pt.
  [3
 
@@ -817,7 +817,7 @@ Package pdftex.def Info: ccimage.png used on input line 24.
 ] [7
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  
  []
 
@@ -866,7 +866,7 @@ Overfull \hbox (21.11113pt too wide) detected at line 13
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  
  []
 
@@ -1199,17 +1199,6 @@ Overfull \hbox (5.09215pt too wide) in paragraph at lines 13--13
 \openout5 = `main.lof'.
 
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
- 
- []
-
-(main.lot)
-\tf@lot=\write6
-\openout6 = `main.lot'.
-
- [11
-
-]
 \openout2 = `introduction.aux'.
 
  (introduction.tex
@@ -1217,30 +1206,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 [1
 
 
 
 
 ]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1257,7 +1228,7 @@ Missing character: There is no “ in font cmr10!
  (chapter2.tex
 [Eliminating friction with friction: 2D Janssen effect in a friction-driven sys
 tem]
-<Figures/chapter2/conveyor.pdf, id=59, 807.25589pt x 493.845pt>
+<Figures/chapter2/conveyor.pdf, id=56, 807.25589pt x 493.845pt>
 File: Figures/chapter2/conveyor.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/conveyor.pdf>
@@ -1292,7 +1263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
 
 ] [5 <./Figures/chapter2/conveyor.pdf>] [6]
-<Figures/chapter2/pressurevh.pdf, id=498, 438.63875pt x 427.5975pt>
+<Figures/chapter2/pressurevh.pdf, id=495, 438.63875pt x 427.5975pt>
 File: Figures/chapter2/pressurevh.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/pressurevh.pdf>
@@ -1335,7 +1306,7 @@ ses nearly lin-early for the ob-served filling
  []
 
 [7] [8 <./Figures/chapter2/pressurevh.pdf>]
-<Figures/chapter2/collapse.pdf, id=535, 424.58624pt x 408.52625pt>
+<Figures/chapter2/collapse.pdf, id=531, 424.58624pt x 408.52625pt>
 File: Figures/chapter2/collapse.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/collapse.pdf>
@@ -1349,7 +1320,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--68
  $
  []
 
-<Figures/chapter2/etavtheta.pdf, id=536, 504.88625pt x 333.245pt>
+<Figures/chapter2/etavtheta.pdf, id=532, 504.88625pt x 333.245pt>
 File: Figures/chapter2/etavtheta.pdf Graphic file (type pdf)
 
 <use Figures/chapter2/etavtheta.pdf>
@@ -1387,7 +1358,7 @@ f>]) [12] [13]
 
  (chapter3.tex
 [Universality in quasi-2D granular shock fronts above an intruder]
-<Figures/chapter3/schematic.pdf, id=616, 712.3413pt x 587.19376pt>
+<Figures/chapter3/schematic.pdf, id=613, 712.3413pt x 587.19376pt>
 File: Figures/chapter3/schematic.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/schematic.pdf>
@@ -1399,7 +1370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--25
 der in the pic-ture cor-res-ponds to a
  []
 
-<Figures/chapter3/graphPanel.pdf, id=617, 1114.1625pt x 454.69875pt>
+<Figures/chapter3/graphPanel.pdf, id=614, 1114.1625pt x 454.69875pt>
 File: Figures/chapter3/graphPanel.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/graphPanel.pdf>
@@ -1431,7 +1402,7 @@ sus local shear rate, and shear rate versus
 
 ] [15 <./Figures/chapter3/schematic.pdf>] [16 <./Figures/chapter3/graphPanel.pd
 f>] [17] [18]
-<Figures/chapter3/curveFitAndParameters.pdf, id=1162, 540.0175pt x 484.47699pt>
+<Figures/chapter3/curveFitAndParameters.pdf, id=1159, 540.0175pt x 484.47699pt>
 File: Figures/chapter3/curveFitAndParameters.pdf Graphic file (type pdf)
 <use Figures/chapter3/curveFitAndParameters.pdf>
 Package pdftex.def Info: Figures/chapter3/curveFitAndParameters.pdf used on inp
@@ -1500,7 +1471,7 @@ mr/m/n/10 versus $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 plot the dark solid curve
  shows cen-ter of mass of the in-truders shifts
  []
 
-<Figures/chapter3/forcePlot.pdf, id=1163, 382.42876pt x 439.14063pt>
+<Figures/chapter3/forcePlot.pdf, id=1160, 382.42876pt x 439.14063pt>
 File: Figures/chapter3/forcePlot.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/forcePlot.pdf>
@@ -1562,7 +1533,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--85
 
 
 ]
-<Figures/chapter3sup/diagramSupplement.pdf, id=10265, 291.84032pt x 213.04594pt
+<Figures/chapter3sup/diagramSupplement.pdf, id=10262, 291.84032pt x 213.04594pt
 >
 File: Figures/chapter3sup/diagramSupplement.pdf Graphic file (type pdf)
  <use Figures/chapter3sup/diagramSupplement.pdf>
@@ -1570,7 +1541,7 @@ Package pdftex.def Info: Figures/chapter3sup/diagramSupplement.pdf used on inpu
 t line 31.
 (pdftex.def)             Requested size: 433.62pt x 316.57411pt.
 
-<Figures/chapter3sup/randomShape.pdf, id=10266, 202.7575pt x 208.11049pt>
+<Figures/chapter3sup/randomShape.pdf, id=10263, 202.7575pt x 208.11049pt>
 File: Figures/chapter3sup/randomShape.pdf Graphic file (type pdf)
 
 <use Figures/chapter3sup/randomShape.pdf>
@@ -1584,7 +1555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
  []
 
 
-<Figures/chapter3sup/forcePlotSupplement.pdf, id=10267, 388.11699pt x 261.6445p
+<Figures/chapter3sup/forcePlotSupplement.pdf, id=10264, 388.11699pt x 261.6445p
 t>
 File: Figures/chapter3sup/forcePlotSupplement.pdf Graphic file (type pdf)
  <use Figures/chapter3sup/forcePlotSupplement.pdf>
@@ -1615,7 +1586,7 @@ mm/m/it/10 F[]$ \OT1/cmr/m/n/10 (up-ward point-ing ar-row) as a func-tion of
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/chapter3sup/supplementQuiver.pdf, id=10268, 367.76997pt x 266.86299pt>
+<Figures/chapter3sup/supplementQuiver.pdf, id=10265, 367.76997pt x 266.86299pt>
 File: Figures/chapter3sup/supplementQuiver.pdf Graphic file (type pdf)
 <use Figures/chapter3sup/supplementQuiver.pdf>
 Package pdftex.def Info: Figures/chapter3sup/supplementQuiver.pdf used on input
@@ -1636,15 +1607,6 @@ ruder with super-disk ex-po-nent
 [Conclusion]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -1659,18 +1621,26 @@ ter-i-als  spe-cific-ally the
 
 
 
-]) [30] [31] (main.bbl [32
+] [30]) [31] (main.bbl
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [32
 
 
-] [33]
+] [33] [34]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [34]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
-) [35] (main.aux (introduction.aux)
-(chapter2.aux) (chapter3.aux) (chapter3Sup.aux) (conclusion.aux))
+ [35]) [36] (main.aux (introduction.aux) (chapter2.aux) (chapter3.aux) (chapter
+3Sup.aux) (conclusion.aux))
 
  *File List*
 uothesis.cls    
@@ -1771,10 +1741,10 @@ conclusion.tex
 
  ) 
 Here is how much of TeX's memory you used:
- 15770 strings out of 493333
- 303535 string characters out of 3139194
- 378878 words of memory out of 3000000
- 18925 multiletter control sequences out of 15000+200000
+ 15794 strings out of 493333
+ 304088 string characters out of 3139194
+ 380472 words of memory out of 3000000
+ 18952 multiletter control sequences out of 15000+200000
  5833 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,10n,79p,1711b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1790,7 +1760,7 @@ m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (46 pages, 24586925 bytes).
+Output written on main.pdf (46 pages, 24590122 bytes).
 PDF statistics:
  13054 PDF objects out of 15390 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

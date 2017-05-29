@@ -6,16 +6,16 @@ A level-1 auxiliary file: chapter3Sup.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: unsrtnat.bst
 Database file #1: mykDissertation.bib
-I was expecting a `,' or a `}'---line 987 of file mykDissertation.bib
+I was expecting a `,' or a `}'---line 1130 of file mykDissertation.bib
  : 
  : @article{wyart_stability_2012,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 1203 of file mykDissertation.bib
+Repeated entry---line 1346 of file mykDissertation.bib
  : @article{liu_nonlinear_1998
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2584 of file mykDissertation.bib
+Repeated entry---line 2727 of file mykDissertation.bib
  : @article{janssen_versuche_1895
  :                               ,
 I'm skipping whatever remains of this entry
