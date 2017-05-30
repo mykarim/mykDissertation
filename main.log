@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  1 APR 2017 17:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  29 MAY 2017 22:03
 entering extended mode
 **./main.tex
 (main.tex
@@ -1203,9 +1203,6 @@ Overfull \hbox (5.09215pt too wide) in paragraph at lines 13--13
 
  (introduction.tex
 [Introduction]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
 [1
 
 
@@ -1218,11 +1215,7 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
- [2]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-) [3]
+ [2]) [3]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
@@ -1743,7 +1736,7 @@ conclusion.tex
 Here is how much of TeX's memory you used:
  15794 strings out of 493333
  304088 string characters out of 3139194
- 380472 words of memory out of 3000000
+ 380464 words of memory out of 3000000
  18952 multiletter control sequences out of 15000+200000
  5833 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1760,7 +1753,7 @@ m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (46 pages, 24590122 bytes).
+Output written on main.pdf (46 pages, 24590383 bytes).
 PDF statistics:
  13054 PDF objects out of 15390 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
