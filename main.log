@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  29 MAY 2017 22:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  30 MAY 2017 07:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -1591,9 +1591,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 ruder with super-disk ex-po-nent
  []
 
-) [25 <./Figures/chapter3sup/diagramSupplement.pdf>] [26 <./Figures/chapter3sup
-/randomShape.pdf>] [27 <./Figures/chapter3sup/forcePlotSupplement.pdf>]
-[28 <./Figures/chapter3sup/supplementQuiver.pdf>]
+) [25] [26 <./Figures/chapter3sup/diagramSupplement.pdf>] [27 <./Figures/chapte
+r3sup/randomShape.pdf>] [28 <./Figures/chapter3sup/forcePlotSupplement.pdf>]
+[29 <./Figures/chapter3sup/supplementQuiver.pdf>]
 \openout2 = `conclusion.aux'.
 
  (conclusion.tex
@@ -1610,11 +1610,11 @@ Underfull \hbox (badness 1292) in paragraph at lines 11--12
 ter-i-als  spe-cific-ally the 
  []
 
-[29
+[30
 
 
 
-] [30]) [31] (main.bbl
+] [31]) [32] (main.bbl
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¼ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -1623,16 +1623,16 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [32
+ [33
 
 
-] [33] [34]
+] [34] [35]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
- [35]) [36] (main.aux (introduction.aux) (chapter2.aux) (chapter3.aux) (chapter
+ [36]) [37] (main.aux (introduction.aux) (chapter2.aux) (chapter3.aux) (chapter
 3Sup.aux) (conclusion.aux))
 
  *File List*
@@ -1736,7 +1736,7 @@ conclusion.tex
 Here is how much of TeX's memory you used:
  15794 strings out of 493333
  304088 string characters out of 3139194
- 380464 words of memory out of 3000000
+ 380463 words of memory out of 3000000
  18952 multiletter control sequences out of 15000+200000
  5833 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1753,9 +1753,9 @@ m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (46 pages, 24590383 bytes).
+Output written on main.pdf (47 pages, 24592069 bytes).
 PDF statistics:
- 13054 PDF objects out of 15390 (max. 8388607)
+ 13057 PDF objects out of 15390 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
