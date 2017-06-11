@@ -124,7 +124,7 @@
 \SetWatermarkLightness{#2}
 \SetWatermarkFontSize{#3}
 \SetWatermarkScale{#4}
-\SetWatermarkText{\uppercase{#5}}}
+\SetWatermarkText{#5}
 \ifdraftcopy\watermark{45}{0.95}{5cm}{2.5}{Draft}\fi
 \ifcommitteedraft\watermark{45}{0.95}{5cm}{2.25}{Committee Draft}\fi
 \iflatedraft\watermark{45}{0.95}{5cm}{2.5}{Review Proof}\fi
@@ -243,7 +243,7 @@ of this document.}
 }
 
 
-\def\covertitle#1{\gdef\@covertitle{#1}\gdef\@uppercovertitle{\begin{doublespace} \uppercase{#1} \end{doublespace}}}
+\def\covertitle#1{\gdef\@covertitle{#1}\gdef\@uppercovertitle{\begin{doublespace} {#1} \end{doublespace}}}
 \def\abstracttitle#1{\gdef\@abstracttitle{#1}\gdef\@upperabstracttitle{\uppercase{#1}}}
 
 \def\author#1{\gdef\@author{#1}\gdef\@upperauthor{\uppercase{#1}}}
@@ -398,7 +398,7 @@ This \@papertype\ has been accepted and approved
 \@advisor & Advisor\\
 \@committee\\ \\ 
 and & \\ \\
-\@graddean & Vice President for Research \& Innovation/ Dean of the Graduate School
+\@graddean & Dean of the Graduate School
 \end{tabular}
 \\*[\baselineskip]
 Original approval signatures are on file with the

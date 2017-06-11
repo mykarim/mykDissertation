@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  30 MAY 2017 07:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.13)  11 JUN 2017 01:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -832,29 +832,17 @@ Overfull \hbox (21.11113pt too wide) detected at line 3
  []
 
 
-Overfull \hbox (56.35379pt too wide) in paragraph at lines 3--3
- [][] []\OT1/cmr/m/n/10 ELIMINATING FRIC-TION WITH FRIC-TION: 2D JANSSEN EF-FEC
-T IN A FRICTION- 
- []
-
-
-Overfull \hbox (25.00003pt too wide) detected at line 7
+Overfull \hbox (25.00003pt too wide) detected at line 6
  \OT1/cmr/m/n/10 III.  
  []
 
 
-Overfull \hbox (7.92241pt too wide) in paragraph at lines 7--7
- [][] []\OT1/cmr/m/n/10 UNIVERSALITY IN QUASI-2D GRAN-U-LAR SHOCK FRONTS ABOVE 
-AN IN-TRUDER [][]  
- []
-
-
-Overfull \hbox (24.72224pt too wide) detected at line 11
+Overfull \hbox (24.72224pt too wide) detected at line 9
  \OT1/cmr/m/n/10 IV.  
  []
 
 
-Overfull \hbox (21.11113pt too wide) detected at line 13
+Overfull \hbox (21.11113pt too wide) detected at line 11
  \OT1/cmr/m/n/10 V.  
  []
 
@@ -1219,8 +1207,7 @@ Missing character: There is no ù in font cmr10!
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
-[Eliminating friction with friction: 2D Janssen effect in a friction-driven sys
-tem]
+[2D Janssen effect in a friction-driven system]
 <Figures/chapter2/conveyor.pdf, id=56, 807.25589pt x 493.845pt>
 File: Figures/chapter2/conveyor.pdf Graphic file (type pdf)
 
@@ -1346,19 +1333,19 @@ t/10 $ \OT1/cmr/m/n/10 leads to
  []
 
 [9] [10 <./Figures/chapter2/collapse.pdf>] [11 <./Figures/chapter2/etavtheta.pd
-f>]) [12] [13]
+f>] [12]) [13]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
-[Universality in quasi-2D granular shock fronts above an intruder]
+[Universality in granular shock fronts above an intruder]
 <Figures/chapter3/schematic.pdf, id=613, 712.3413pt x 587.19376pt>
 File: Figures/chapter3/schematic.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/schematic.pdf>
-Package pdftex.def Info: Figures/chapter3/schematic.pdf used on input line 24.
+Package pdftex.def Info: Figures/chapter3/schematic.pdf used on input line 22.
 (pdftex.def)             Requested size: 433.62pt x 357.45296pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []\OT1/cmr/m/n/10 FIGURE 5. |a) Front view of ex-per-i-mental setup. The in-tru
 der in the pic-ture cor-res-ponds to a
  []
@@ -1367,24 +1354,24 @@ der in the pic-ture cor-res-ponds to a
 File: Figures/chapter3/graphPanel.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/graphPanel.pdf>
-Package pdftex.def Info: Figures/chapter3/graphPanel.pdf used on input line 30.
+Package pdftex.def Info: Figures/chapter3/graphPanel.pdf used on input line 28.
 
 (pdftex.def)             Requested size: 433.62pt x 176.96407pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []\OT1/cmr/m/n/10 FIGURE 6. |a-c) In-tens-ity plot of scaled gran-u-lar tem-per
 -at-ure, ab-so-lute di-ver-gence of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 \OT1/cmr/m/n/10 flow field, and local shear-strain rate for $\OML/cmm/m/it/10 n
  \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75$. d - f) Scat-ter plot
 s of scaled flow-field
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 \OT1/cmr/m/n/10 di-ver-gence versus tem-per-at-ure, flow field di-ver-gence ver
 sus local shear rate, and shear rate versus
  []
@@ -1399,17 +1386,17 @@ f>] [17] [18]
 File: Figures/chapter3/curveFitAndParameters.pdf Graphic file (type pdf)
 <use Figures/chapter3/curveFitAndParameters.pdf>
 Package pdftex.def Info: Figures/chapter3/curveFitAndParameters.pdf used on inp
-ut line 76.
+ut line 74.
 (pdftex.def)             Requested size: 433.62pt x 389.03104pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []\OT1/cmr/m/n/10 FIGURE 7. |a) Plots of shock fronts. Scaled $\OML/cmm/m/it/10
  x$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it/10 y$ \OT1/cmr/m/n/10 co-ordin-ates are 
 in units of $\OML/cmm/m/it/10 R$\OT1/cmr/m/n/10 , the ver-tical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 length of the in-truder. The data is shown for $\OML/cmm/m/it/1
 0 n \OT1/cmr/m/n/10 = 0$, $0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 75$, $0\OML/cmm/m
 /it/10 :\OT1/cmr/m/n/10 85$, $0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 95$, $1$, $1\O
@@ -1418,32 +1405,32 @@ ML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$, $2$, $2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OMS/cmsy/m/n/10 1$\OT1/cmr/m/n/10 . Solid black lines are fits to Equa-tion 3.
 5[]. b) Plot of scaled shock bound-ar-ies for all probed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 val-ues of $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 with con-stant 
 $\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = 4$ inches shown in circles. Squares rep-r
 es-ent all tested in-truder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 Dia-mond sym-bols rep-res-ent data from an asym-met-ric in-trud
 er with ran-dom fea-tures on it (shown
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 in Fig-ure 2 of the Sup-ple-ment). The black curve is the in-ve
 r-ted caten-ary given by Equa-tion 3.5[].
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 c) Top to bot-tom - plots of the fit para-met-ers $\OML/cmm/m/i
 t/10 w$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 c$ \OT1/cmr/m/n/10 and $\OML/cmm/m/i
 t/10 w \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 p$ \OT1/cmr/m/n/10 as func-tions of $
@@ -1451,14 +1438,14 @@ t/10 w \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 p$ \OT1/cmr/m/n/10 as func-tions of $
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OT1/cmr/m/n/10 circles rep-res-ent data from vary-ing $\OML/cmm/m/it/10 n$ \OT
 1/cmr/m/n/10 with con-stant $\OML/cmm/m/it/10 R$ \OT1/cmr/m/n/10 and blue squar
 es rep-res-ent data from fixed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 \OMS/cmsy/m/n/10 j[]j $\OT1/cmr/m/n/10 0.8. In the $\OML/cmm/m/it/10 c$ \OT1/c
 mr/m/n/10 versus $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 plot the dark solid curve
  shows cen-ter of mass of the in-truders shifts
@@ -1468,48 +1455,48 @@ mr/m/n/10 versus $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 plot the dark solid curve
 File: Figures/chapter3/forcePlot.pdf Graphic file (type pdf)
 
 <use Figures/chapter3/forcePlot.pdf>
-Package pdftex.def Info: Figures/chapter3/forcePlot.pdf used on input line 84.
+Package pdftex.def Info: Figures/chapter3/forcePlot.pdf used on input line 82.
 (pdftex.def)             Requested size: 433.62pt x 497.9452pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10 FIGURE 8. |a) Plot of ho-ri-zontal lift forces from force sen
 sor (green circle) and cal-cu-lated lift
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 85--85
+Underfull \hbox (badness 4316) in paragraph at lines 83--83
 \OT1/cmr/m/n/10 forces (dark blue squares) as a func-tion of $\OML/cmm/m/it/10 
 n$\OT1/cmr/m/n/10 . Lift is max-imum for $\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 !
  \OT1/cmr/m/n/10 0$ and de-creases to $0$ as
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 85--85
+Underfull \hbox (badness 3724) in paragraph at lines 83--83
 \OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ! 1$\OT1/cmr/m/n/10 . In-set is an il-lus-t
 ra-tion show-ing the in-truder, out-lined in black, trapped grains, in grey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10 and shock pro-file in red. The solid green ar-row rep-res-ents 
 the tan-gen-tial net force $[](\OML/cmm/m/it/10 s; \OT1/cmr/m/n/10 )$ on a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10 small seg-ment of the shock front. Dot-ted green ar-rows are co
 m-pon-ents of this vec-tor. Purple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10 ar-rows labeled $\OML/cmm/m/it/10 v[]$ \OT1/cmr/m/n/10 rep-res-
 ent ho-ri-zontal ejec-ted grain ve-lo-cit-ies from the trapped re-gion. b) Plot
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10 of the left (red) and right (blue) exit heights $\OML/cmm/m/it/
 10 l$ \OT1/cmr/m/n/10 as a func-tion of $\OML/cmm/m/it/10 n$\OT1/cmr/m/n/10 . c
 ) Plot of ab-so-lute ho-ri-zontal
@@ -1520,7 +1507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--85
 \openout2 = `chapter3Sup.aux'.
 
  (chapter3Sup.tex
-[Supplementary Materials for Chapter 3]
+[Supplementary Materials for Chapter III]
 [24
 
 
@@ -1604,12 +1591,6 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-
-Underfull \hbox (badness 1292) in paragraph at lines 11--12
-[]\OT1/cmr/m/n/10 Chapter 3 fo-cused on a dif-fer-ent as-pect of gran-u-lar ma-
-ter-i-als  spe-cific-ally the 
- []
-
 [30
 
 
@@ -1736,7 +1717,7 @@ conclusion.tex
 Here is how much of TeX's memory you used:
  15794 strings out of 493333
  304088 string characters out of 3139194
- 380463 words of memory out of 3000000
+ 379492 words of memory out of 3000000
  18952 multiletter control sequences out of 15000+200000
  5833 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1753,7 +1734,7 @@ m/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (47 pages, 24592069 bytes).
+Output written on main.pdf (47 pages, 24592751 bytes).
 PDF statistics:
  13057 PDF objects out of 15390 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
